@@ -26,7 +26,7 @@ prev_height = browser.execute_script("return document.body.scrollHeight")
 while True:
     # 스크롤을 가장 아래로 내림
     browser.execute_script(
-        "window.scrollTo(0, document.body.scrollHeight)")
+        "window.scrollTo(0, document.body.scrollHeight);")
 
     # 페이지 로딩 대기
     time.sleep(interval)

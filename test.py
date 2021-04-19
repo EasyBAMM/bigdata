@@ -30,30 +30,25 @@ contents = soup.select("#replies > #content-text")
 likes = soup.select("#replies > #vote-count-middle")
 '''
 
-INTERVAL = 3
-
 
 def scrape_comment():
-    options = webdriver.ChromeOptions()
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome(options=options)
+    driver = webdriver.Chrome()
     driver.implicitly_wait(7)
     driver.maximize_window()
 
     # url = "https://www.youtube.com/watch?v=wYn8TeTMUL4"
-    # url = "https://www.youtube.com/watch?v=7guaCiO21iM"
-    url = "https://www.youtube.com/watch?v=wZRg4f8uBzw"
+    url = "https://www.youtube.com/watch?v=7guaCiO21iM"
     driver.get(url)
 
-    INTERVAL = 3   # 3초에 한번씩 스크롤 내림
-    time.sleep(INTERVAL)
+    interval = 3   # 3초에 한번씩 스크롤 내림
+    time.sleep(interval)
     print("스크롤 시작")
 
     # 스크롤을 가장 아래로 내림(반복수행 전 필수, comment 떠야함)
     driver.execute_script(
         "window.scrollTo(0, document.documentElement.scrollHeight - parseInt(document.documentElement.scrollHeight/2));")
     # comment창 대기
-    time.sleep(INTERVAL)
+    time.sleep(interval)
 
     # 현재 문서 높이를 가져와서 저장
     prev_height = driver.execute_script(
@@ -66,7 +61,7 @@ def scrape_comment():
             "window.scrollTo(0, document.documentElement.scrollHeight);")
 
         # 페이지 로딩 대기
-        time.sleep(INTERVAL)
+        time.sleep(interval)
 
         # 현재 문서 높이를 가져와서 저장
         curr_height = driver.execute_script(
@@ -86,43 +81,46 @@ def scrape_comment():
     except exceptions.NoSuchElementException:
         print("No Banner")
 
-    # 답글 보기 클릭
+    # 댓글 보기 클릭
     print("댓글 보기 시작")
     try:
         replies = driver.find_elements_by_tag_name(
             "ytd-comment-replies-renderer")
-        for index, replie in enumerate(replies):
+        for replie in replies:
             button = replie.find_element_by_id("button")
             button.send_keys(Keys.ENTER)
-            print(f"{index+1}.답글 보기 클릭")
-            time.sleep(INTERVAL)
+            print("답글 보기 클릭")
+            time.sleep(interval)
 
     except exceptions.NoSuchElementException:
         print("답글 보기 없음")
-    print("답글 보기 완료")
+    print("댓글 보기 완료")
 
-    # 답글 더보기 클릭
-    print("답글 더보기 시작")
+    # 댓글 더보기 클릭
+    print("댓글 더보기 시작")
+    # while True:
+    #     try:
+    #         button_wrap = driver.find_elements_by_id("continuation")
+    #         for button in button_wrap:
+    #             button.find_element_by_tag_name(
+    #             "tp-yt-paper-button").send_keys(Keys.ENTER)
+    #             print("답글 더보기 클릭")
+    #             time.sleep(interval)
+    #         continue
+    #     except exceptions.NoSuchElementException:
+    #         print("답글 더보기 없음")
+    #         break
+    # print("댓글 더보기 완료")
     try:
         button_wrap = driver.find_elements_by_id("continuation")
-        for index, button in enumerate(button_wrap):
+        for button in button_wrap:
             button.find_element_by_tag_name(
                 "tp-yt-paper-button").send_keys(Keys.ENTER)
-            print(f"{index}.답글 더보기 클릭")
-            time.sleep(INTERVAL*3)
+            print("답글 더보기 클릭")
+            time.sleep(interval)
     except exceptions.NoSuchElementException:
         print("답글 더보기 없음")
-    print("답글 더보기 완료")
-    # try:
-    #     button_wrap = driver.find_elements_by_id("continuation")
-    #     for button in button_wrap:
-    #         button.find_element_by_tag_name(
-    #             "tp-yt-paper-button").send_keys(Keys.ENTER)
-    #         print("답글 더보기 클릭")
-    #         time.sleep(interval)
-    # except exceptions.NoSuchElementException:
-    #     print("답글 더보기 없음")
-    # print("댓글 더보기 완료")
+    print("댓글 더보기 완료")
 
     print("scrape_comment 완료")
     time.sleep(500)
