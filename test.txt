@@ -1,0 +1,5 @@
+hello world. this is junbeom python.
+
+welcome. big data course.
+
+numpy, matplotlib, pandas, sckit learn ...
