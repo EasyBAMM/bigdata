@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import time
+
 '''
 # comments = soup.select("ytd-comment-renderer")
 # 댓글 이름
@@ -40,6 +41,7 @@ def scrape_comment():
     driver.implicitly_wait(7)
     driver.maximize_window()
 
+    # Test url
     # url = "https://www.youtube.com/watch?v=wYn8TeTMUL4"
     # url = "https://www.youtube.com/watch?v=7guaCiO21iM"
     url = "https://www.youtube.com/watch?v=wZRg4f8uBzw"
