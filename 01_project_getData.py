@@ -103,29 +103,33 @@ def scrape_comment():
 
     # 답글 더보기 클릭
     print("답글 더보기 시작")
+    index = 0
+
     try:
-        button_wrap = driver.find_elements_by_id("continuation")
-        for index, button in enumerate(button_wrap):
-            button.find_element_by_tag_name(
-                "tp-yt-paper-button").send_keys(Keys.ENTER)
+        # 답글 더보기 클릭
+        while driver.find_element_by_xpath("//*[@id='continuation']/yt-next-continuation/tp-yt-paper-button/yt-formatted-string").text.strip() != '':
+            driver.find_element_by_xpath(
+                "//*[@id='continuation']/yt-next-continuation/tp-yt-paper-button").send_keys(Keys.ENTER)
+            index += 1
             print(f"{index}.답글 더보기 클릭")
-            time.sleep(INTERVAL*3)
-    except exceptions.NoSuchElementException:
+            time.sleep(INTERVAL*4)
+    except:
         print("답글 더보기 없음")
     print("답글 더보기 완료")
     # try:
     #     button_wrap = driver.find_elements_by_id("continuation")
-    #     for button in button_wrap:
+    #     for index, button in enumerate(button_wrap):
     #         button.find_element_by_tag_name(
     #             "tp-yt-paper-button").send_keys(Keys.ENTER)
-    #         print("답글 더보기 클릭")
-    #         time.sleep(interval)
+    #         print(f"{index}.답글 더보기 클릭")
+    #         time.sleep(INTERVAL*3)
     # except exceptions.NoSuchElementException:
     #     print("답글 더보기 없음")
-    # print("댓글 더보기 완료")
+    # print("답글 더보기 완료")
 
     print("scrape_comment 완료")
     time.sleep(500)
+    # driver.quit()
 
 
 def get_data():
