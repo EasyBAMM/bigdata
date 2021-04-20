@@ -116,16 +116,6 @@ def scrape_comment():
     except:
         print("답글 더보기 없음")
     print("답글 더보기 완료")
-    # try:
-    #     button_wrap = driver.find_elements_by_id("continuation")
-    #     for index, button in enumerate(button_wrap):
-    #         button.find_element_by_tag_name(
-    #             "tp-yt-paper-button").send_keys(Keys.ENTER)
-    #         print(f"{index}.답글 더보기 클릭")
-    #         time.sleep(INTERVAL*3)
-    # except exceptions.NoSuchElementException:
-    #     print("답글 더보기 없음")
-    # print("답글 더보기 완료")
 
     print("scrape_comment 완료")
     time.sleep(500)
