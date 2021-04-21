@@ -1,0 +1,714 @@
+{
+	"kind": "youtube#commentThreadListResponse",
+	"etag": "Ko8BRPbxhRB5vUUOZoJ1s-yAiWI",
+	"pageInfo": {
+		"totalResults": 19,
+		"resultsPerPage": 100
+	},
+	"items": [
+		{
+			"kind": "youtube#commentThread",
+			"etag": "LTtzclHb69wb0LVqFatmaUfg3cQ",
+			"id": "UgxqHLIVdvBp-n0z7zt4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "hiyTqS6q8TRGGMHM4OAvg8ta_WU",
+					"id": "UgxqHLIVdvBp-n0z7zt4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "21ㄷ핮데ㅐㅘㅐ제도 ehewhkewop",
+						"textOriginal": "21ㄷ핮데ㅐㅘㅐ제도 ehewhkewop",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T19:07:26Z",
+						"updatedAt": "2021-04-21T19:07:26Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "QHJCOgQ6LHGIXklBQGO9iCYiGZM",
+			"id": "UgyEg6CwbVKZTIztg-F4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "ri55y9Fc_0YAZoosEPcYNjJmxeg",
+					"id": "UgyEg6CwbVKZTIztg-F4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "20heohleelgoegloe",
+						"textOriginal": "20heohleelgoegloe",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:57:23Z",
+						"updatedAt": "2021-04-21T18:57:23Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "nCLCFGpC1AHSxnX0IpWGpoAxDkg",
+			"id": "Ugxwz-fXZKqg11U8-z14AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "CXDr-8jEMAta7YbPZad3LigNeAg",
+					"id": "Ugxwz-fXZKqg11U8-z14AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "19ㅈㄷ존ㅇ롴  ㄷ곻ㅈ고",
+						"textOriginal": "19ㅈㄷ존ㅇ롴  ㄷ곻ㅈ고",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:57:19Z",
+						"updatedAt": "2021-04-21T18:57:19Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "Wom1FXWWZ1CKgHr5ZC7cLlVtZRc",
+			"id": "Ugxq96ohWWJ92t-i2YV4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "eY_loBuY4UO0qHH7RwjZVtIJ93c",
+					"id": "Ugxq96ohWWJ92t-i2YV4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "18ㅁㄴㅇㄴ흐가ㅣㅗㅢ;ㄴ",
+						"textOriginal": "18ㅁㄴㅇㄴ흐가ㅣㅗㅢ;ㄴ",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:57:15Z",
+						"updatedAt": "2021-04-21T18:57:15Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "8rH709s-a9OUER1Sd89NMjPpB_I",
+			"id": "UgzfwSE8T_xntllwlXt4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "qt9ytOoN_2pjZ9wE8R2SZuXFb_w",
+					"id": "UgzfwSE8T_xntllwlXt4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "17허댜ㅐㅈ헌위나",
+						"textOriginal": "17허댜ㅐㅈ헌위나",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:57:11Z",
+						"updatedAt": "2021-04-21T18:57:11Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "oTdPc4SWGbGT7fUgg5JZjQfTabA",
+			"id": "UgzEgcROfRt73VFT8rl4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "ZpRfZDyhkurEMrYq_cTg2U9M07k",
+					"id": "UgzEgcROfRt73VFT8rl4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "15안뇽하세ㅐ요니,;",
+						"textOriginal": "15안뇽하세ㅐ요니,;",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:57:05Z",
+						"updatedAt": "2021-04-21T18:57:05Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "Kpmz_CdVgslFgbYR6fMTsQvv0iY",
+			"id": "UgyQcF-ln66d5LyGx1J4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "mk503tY5gpbH5DzrmiR8BQ8jXpk",
+					"id": "UgyQcF-ln66d5LyGx1J4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "14헬로우",
+						"textOriginal": "14헬로우",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:53Z",
+						"updatedAt": "2021-04-21T18:56:53Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "eGBohW5QuSRDtrGVbRtQQr9x5z8",
+			"id": "UgztJqpiNLAjZrEHfz14AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "L_XX34TvSu6tQUx9car7WL9jPZc",
+					"id": "UgztJqpiNLAjZrEHfz14AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "13뭐하는건지..",
+						"textOriginal": "13뭐하는건지..",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:47Z",
+						"updatedAt": "2021-04-21T18:56:47Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "QU1AJ5vQjn5UioV0mmzWqyR2BBM",
+			"id": "Ugx7YzNM4GolYvQACf94AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "6lP-4Xn-nPSU3mCzYCVLFxtCm-s",
+					"id": "Ugx7YzNM4GolYvQACf94AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "12내가",
+						"textOriginal": "12내가",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:38Z",
+						"updatedAt": "2021-04-21T18:56:38Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "HKdifTXTBHc8UV8YIFRnuv70FCM",
+			"id": "UgwkMdLCefvEhymYp294AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "IY15YmhEHPVsPnSexMq-m6bc0_o",
+					"id": "UgwkMdLCefvEhymYp294AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "11생",
+						"textOriginal": "11생",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:32Z",
+						"updatedAt": "2021-04-21T18:56:32Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 1,
+				"isPublic": true
+			},
+			"replies": {
+				"comments": [
+					{
+						"kind": "youtube#comment",
+						"etag": "xjZxRhLUiLHOeNmBDQ2FctCy-8M",
+						"id": "UgwkMdLCefvEhymYp294AaABAg.9MPaQJjZ3b99MPj3D8_lnp",
+						"snippet": {
+							"videoId": "49ysegAFDoY",
+							"textDisplay": "11번답글",
+							"textOriginal": "11번답글",
+							"parentId": "UgwkMdLCefvEhymYp294AaABAg",
+							"authorDisplayName": "junbeom heo",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+							"authorChannelId": {
+								"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2021-04-21T20:12:01Z",
+							"updatedAt": "2021-04-21T20:12:01Z"
+						}
+					}
+				]
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "UOL918TWONlYQwWhtG0Dzu4R2Lc",
+			"id": "UgyBsl1Y7asV2yVgA2l4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "zvXFVSrHjBpL8_s2cNfiXzOrkpg",
+					"id": "UgyBsl1Y7asV2yVgA2l4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "10인",
+						"textOriginal": "10인",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:29Z",
+						"updatedAt": "2021-04-21T18:56:29Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "jzUEa1MsYLBpu6spd1qAFrxAir0",
+			"id": "Ugxybl1I2JhzPlvdkp94AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "Xx95ey984cFPk-4ggoFs2RxNKUk",
+					"id": "Ugxybl1I2JhzPlvdkp94AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "8구",
+						"textOriginal": "8구",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:23Z",
+						"updatedAt": "2021-04-21T18:56:23Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "V3yH42sKPA_XZ1ieCELh3dEbYtw",
+			"id": "UgygX6TDgXvAcNmsd_V4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "DCGHlIVFb2DC4TkrtGHMGwspvs0",
+					"id": "UgygX6TDgXvAcNmsd_V4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "7안녕",
+						"textOriginal": "7안녕",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:18Z",
+						"updatedAt": "2021-04-21T18:56:18Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "nZDDMfuDJqLGyWQdc4oLIe-ksOY",
+			"id": "UgxrW6xe7PBOHifyL0d4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "LYELz1gDUIMWNtUKPYYOCdRAdJg",
+					"id": "UgxrW6xe7PBOHifyL0d4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "6",
+						"textOriginal": "6",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:12Z",
+						"updatedAt": "2021-04-21T18:56:12Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "pT_leQYX7X3MgvfBgRu9FLA_TvQ",
+			"id": "Ugy30BY1rJfn1cpMv_Z4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "D2ImGvhm2_UZgfrQts-lBWQ2T7M",
+					"id": "Ugy30BY1rJfn1cpMv_Z4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "5",
+						"textOriginal": "5",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:10Z",
+						"updatedAt": "2021-04-21T18:56:10Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "nd3kzW4Aagw1vUDnQRXlds8EY34",
+			"id": "UgzfDfmbcxlKQ_3dwEN4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "tD6_OhZla2JNfV_Sv9hXgD_7NCU",
+					"id": "UgzfDfmbcxlKQ_3dwEN4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "4번",
+						"textOriginal": "4번",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:56:00Z",
+						"updatedAt": "2021-04-21T18:56:00Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "4RbTdIGBvqarfLeBPPNWIaUO0EQ",
+			"id": "Ugy3kBM139moEEWjIgF4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "pbdPOUkiDpISInbUrVvHrTOPFIQ",
+					"id": "Ugy3kBM139moEEWjIgF4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "3번댓글",
+						"textOriginal": "3번댓글",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:55:55Z",
+						"updatedAt": "2021-04-21T18:55:55Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "QSWf_Gpms-1DdLXaTq-tjDAusZY",
+			"id": "UgxKfw1rImRqq3ctRGR4AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "1m0O2E3Cah-FiO7i88KNxwzxQ54",
+					"id": "UgxKfw1rImRqq3ctRGR4AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "2번댓글",
+						"textOriginal": "2번댓글",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-04-21T18:55:51Z",
+						"updatedAt": "2021-04-21T18:55:51Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "I2oYlAbxRc9eg7_kkAPW3DjXXiw",
+			"id": "UgyFuA7jMrJvHei4n494AaABAg",
+			"snippet": {
+				"videoId": "49ysegAFDoY",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "k5HeyPGwqmLUxjYb2Y-uSShaiVk",
+					"id": "UgyFuA7jMrJvHei4n494AaABAg",
+					"snippet": {
+						"videoId": "49ysegAFDoY",
+						"textDisplay": "1번댓글",
+						"textOriginal": "1번댓글",
+						"authorDisplayName": "junbeom heo",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+						"authorChannelId": {
+							"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-04-21T18:55:44Z",
+						"updatedAt": "2021-04-21T18:55:44Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 3,
+				"isPublic": true
+			},
+			"replies": {
+				"comments": [
+					{
+						"kind": "youtube#comment",
+						"etag": "Vy4rxmUUUYefje9ZkEjuzq3cL_I",
+						"id": "UgyFuA7jMrJvHei4n494AaABAg.9MPaKSqU9UD9MPacvHKcjO",
+						"snippet": {
+							"videoId": "49ysegAFDoY",
+							"textDisplay": "이건답글2번째인데",
+							"textOriginal": "이건답글2번째인데",
+							"parentId": "UgyFuA7jMrJvHei4n494AaABAg",
+							"authorDisplayName": "junbeom heo",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+							"authorChannelId": {
+								"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2021-04-21T18:58:24Z",
+							"updatedAt": "2021-04-21T18:58:24Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "Rx45dBW7HJmhN6QVKF-GP65NTPw",
+						"id": "UgyFuA7jMrJvHei4n494AaABAg.9MPaKSqU9UD9MPabPTUEBK",
+						"snippet": {
+							"videoId": "49ysegAFDoY",
+							"textDisplay": "이건답글의답글이지",
+							"textOriginal": "이건답글의답글이지",
+							"parentId": "UgyFuA7jMrJvHei4n494AaABAg",
+							"authorDisplayName": "junbeom heo",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+							"authorChannelId": {
+								"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2021-04-21T18:58:11Z",
+							"updatedAt": "2021-04-21T18:58:11Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "dFsl3EuM3yrwsxN76bOc5wQmvOY",
+						"id": "UgyFuA7jMrJvHei4n494AaABAg.9MPaKSqU9UD9MPa_dh-Nz6",
+						"snippet": {
+							"videoId": "49ysegAFDoY",
+							"textDisplay": "이건답글인데",
+							"textOriginal": "이건답글인데",
+							"parentId": "UgyFuA7jMrJvHei4n494AaABAg",
+							"authorDisplayName": "junbeom heo",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhB3CZHYn3vUQ9ohpOGTziEKdvu_cUYd0qfQ=s48-c-k-c0xffffffff-no-rj-mo",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCN9oAmeaWT96tQpgKmonwBQ",
+							"authorChannelId": {
+								"value": "UCN9oAmeaWT96tQpgKmonwBQ"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2021-04-21T18:57:57Z",
+							"updatedAt": "2021-04-21T18:57:57Z"
+						}
+					}
+				]
+			}
+		}
+	]
+}
