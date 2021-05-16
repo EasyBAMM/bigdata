@@ -42,9 +42,10 @@ def scrape_comment():
     driver.maximize_window()
 
     # Test url
-    # url = "https://www.youtube.com/watch?v=wYn8TeTMUL4"
+    # url = "https://www.youtube.com/watch?v=49ysegAFDoY"
+    url = "https://www.youtube.com/watch?v=wYn8TeTMUL4"
     # url = "https://www.youtube.com/watch?v=7guaCiO21iM"
-    url = "https://www.youtube.com/watch?v=wZRg4f8uBzw"
+    # url = "https://www.youtube.com/watch?v=wZRg4f8uBzw"
     driver.get(url)
 
     INTERVAL = 3   # 3초에 한번씩 스크롤 내림
@@ -53,7 +54,7 @@ def scrape_comment():
 
     # 스크롤을 가장 아래로 내림(반복수행 전 필수, comment 떠야함)
     driver.execute_script(
-        "window.scrollTo(0, document.documentElement.scrollHeight - parseInt(document.documentElement.scrollHeight/2));")
+        "window.scrollTo(0, document.documentElement.scrollHeight - parseInt(document.documentElement.scrollHeight/1.5));")
     # comment창 대기
     time.sleep(INTERVAL)
 
@@ -119,21 +120,16 @@ def scrape_comment():
         print("답글 더보기 없음")
     print("답글 더보기 완료")
 
-    print("scrape_comment 완료")
-    time.sleep(500)
-    # driver.quit()
+    comments = driver.find_elements_by_id("content-text")
+    for i in comments:
+        print(i.text)
+
+    print("[INFO] 완료")
+    # time.sleep(500)
+    driver.quit()
 
 
 def get_data():
-    # 제목
-    # title = browser.find_element_by_xpath(
-    #     "//*[@id='container']/h1/yt-formatted-string").text
-    # # 조회수
-    # wriiten = browser.find_element_by_xpath(
-    #     "//*[@id='count']/ytd-video-view-count-renderer/span[1]").text.split()[1]
-
-    # print(f"제목 : {title}")
-    # print(f"조회수 : {wriiten}")
     pass
 
 

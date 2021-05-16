@@ -1,76 +1,21 @@
-# -*- coding: utf-8 -*-
-
-# Sample Python code for youtube.commentThreads.list
-# See instructions for running these code samples locally:
-# https://developers.google.com/explorer-help/guides/code_samples#python
-# https://developers.google.com/youtube/v3/docs/commentThreads/list?hl=ko
-
-# pip install --upgrade google-api-python-client
+import pandas as pd
 
 import json
 import pandas as pd
-import googleapiclient.discovery
-from dotenv import dotenv_values
+
+num = 10
+category = "popular_new_"
+src = "data/" + category + str(num) + ".json"
+dst = "data/csv/" + category + str(num) + ".csv"
 
 
-def get_api_key():
-    ''' 
-    Youtube API Key
-    '''
-    config = dotenv_values(".env")
-    return config['API_KEY']
-
-
-def get_data(count=999999, nextPageToken=""):
-    '''
-    Change YOUR_API_KEY!!!
-    Recursively receive data as much as maxResults through API. 
-    Limit API calls to count parameter.
-    '''
-    # Check count
-    if count < 1:
-        print("[INFO] Count End.")
-        return
-
-    # Disable OAuthlib's HTTPS verification when running locally.
-    # *DO NOT* leave this option enabled in production.
-    # os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
-
-    api_service_name = "youtube"
-    api_version = "v3"
-    DEVELOPER_KEY = get_api_key()  # "YOUR_API_KEY"
-
-    youtube = googleapiclient.discovery.build(
-        api_service_name, api_version, developerKey=DEVELOPER_KEY)
-
-    # Document reference
-    # example >> part="id, snippet, replies", maxResults=20, order="relevance", pageToken=nextPageToken, videoId="HNObBsbvxOk",
-    request = youtube.commentThreads().list(
-        part="id, snippet, replies",
-        maxResults=100,
-        order="relevance",
-        pageToken=nextPageToken,
-        videoId="wYn8TeTMUL4",
-    )
-    response = request.execute()
-
-    print(f"************** {count} times left. **************")
-
-    with open('sample.json', 'w', encoding="utf-8") as make_file:
-        json.dump(response, make_file, indent="\t", ensure_ascii=False)
-        print("[INFO] Saved.")
-
-    # print(response)
-
-    # Call recursive when nextPageToken is exist.
-    if "nextPageToken" in response:
-        get_data(count-1, response["nextPageToken"])
-    else:
-        print("[End] No more comments.")
+def open_json_file():
+    with open(src, "r", encoding="utf-8") as f:
+        json_data = json.load(f)
+    return json_data
 
 
 def json_to_pandas(response):
-
     json_data = response
     items = json_data["items"]
 
@@ -123,10 +68,39 @@ def json_to_pandas(response):
             'textDisplay': textDisplay, 'textOriginal': textOriginal, 'authorChannelUrl': authorChannelUrl, 'likeCount': likeCount}
 
     df = pd.DataFrame(data)
+    df["category"] = "game"
     df["isBad"] = 0
-    print(df)
+
+    df.to_csv(dst)
 
 
 if __name__ == "__main__":
-    get_data(1)
-    print("[INFO] Finished.")
+    response = open_json_file()
+    json_to_pandas(response)
+
+
+# data = []
+
+# for i in range(1, 11):
+#     path = "data/csv/popular_new_" + str(i) + ".csv"
+#     df = pd.read_csv(path)
+#     data.append(df)
+
+# finalDf = pd.concat(data)
+# finalDf.to_csv("data/csv/popular_new_sum.csv")
+
+
+# data = []
+
+# df = pd.read_csv("data/csv/popular_new_sum.csv")
+# df2 = pd.read_csv("data/csv/popular_music_sum.csv")
+# df3 = pd.read_csv("data/csv/popular_game_sum.csv")
+
+# df["category"] = "new"
+# df2["category"] = "music"
+# df3["game"] = "game"
+
+
+# finalDf = pd.concat(data)
+# finalDf.to_csv("data/csv/popular_final_sum.csv")
+# 인기동영상 모두 병합

@@ -1,76 +1,14 @@
-# -*- coding: utf-8 -*-
-
-# Sample Python code for youtube.commentThreads.list
-# See instructions for running these code samples locally:
-# https://developers.google.com/explorer-help/guides/code_samples#python
-# https://developers.google.com/youtube/v3/docs/commentThreads/list?hl=ko
-
-# pip install --upgrade google-api-python-client
-
 import json
 import pandas as pd
-import googleapiclient.discovery
-from dotenv import dotenv_values
 
 
-def get_api_key():
-    ''' 
-    Youtube API Key
-    '''
-    config = dotenv_values(".env")
-    return config['API_KEY']
-
-
-def get_data(count=999999, nextPageToken=""):
-    '''
-    Change YOUR_API_KEY!!!
-    Recursively receive data as much as maxResults through API. 
-    Limit API calls to count parameter.
-    '''
-    # Check count
-    if count < 1:
-        print("[INFO] Count End.")
-        return
-
-    # Disable OAuthlib's HTTPS verification when running locally.
-    # *DO NOT* leave this option enabled in production.
-    # os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
-
-    api_service_name = "youtube"
-    api_version = "v3"
-    DEVELOPER_KEY = get_api_key()  # "YOUR_API_KEY"
-
-    youtube = googleapiclient.discovery.build(
-        api_service_name, api_version, developerKey=DEVELOPER_KEY)
-
-    # Document reference
-    # example >> part="id, snippet, replies", maxResults=20, order="relevance", pageToken=nextPageToken, videoId="HNObBsbvxOk",
-    request = youtube.commentThreads().list(
-        part="id, snippet, replies",
-        maxResults=100,
-        order="relevance",
-        pageToken=nextPageToken,
-        videoId="wYn8TeTMUL4",
-    )
-    response = request.execute()
-
-    print(f"************** {count} times left. **************")
-
-    with open('sample.json', 'w', encoding="utf-8") as make_file:
-        json.dump(response, make_file, indent="\t", ensure_ascii=False)
-        print("[INFO] Saved.")
-
-    # print(response)
-
-    # Call recursive when nextPageToken is exist.
-    if "nextPageToken" in response:
-        get_data(count-1, response["nextPageToken"])
-    else:
-        print("[End] No more comments.")
+def open_json_file():
+    with open("data/samplejson2.json", "r", encoding="utf-8") as f:
+        json_data = json.load(f)
+    return json_data
 
 
 def json_to_pandas(response):
-
     json_data = response
     items = json_data["items"]
 
@@ -127,6 +65,27 @@ def json_to_pandas(response):
     print(df)
 
 
+def read_csv_to_pandas():
+    # titanic = pd.read_csv("data/titanic.csv")
+    pass
+
+
+def save_pandas_to_csvfile():
+    # df = pd.DataFrame(data)
+    # df.to_csv("titanic.xlsx", sheet_name="passengers")
+    pass
+
+
+def pandas_concat():
+    # res = pd.concat([df_C, df_D])
+    pass
+
+
+def pandas_dropna():
+    # df = df.dropna(axis=0)
+    pass
+
+
 if __name__ == "__main__":
-    get_data(1)
-    print("[INFO] Finished.")
+    response = open_json_file()
+    json_to_pandas(response)
