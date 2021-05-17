@@ -1,4 +1,12 @@
 import json
+# python dict -> json
+# json.dumps(python_dict_data)
+
+# save json file
+# json.dump(python_dict_data, file_descriptor, indent="\t", ensure_ascii=False)
+
+# python dict <- json
+# python_dict = json.loads(json_data)
 
 
 def open_json_file():
