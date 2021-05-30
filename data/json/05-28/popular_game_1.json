@@ -1,0 +1,4343 @@
+{
+	"responses": [
+		{
+			"kind": "youtube#commentThreadListResponse",
+			"etag": "4pRsfkaMJZAveX2vR-a3js9-ml4",
+			"nextPageToken": "QURTSl9pM3prY1lxcC1QbmdhZF9GdUktRzl4Z0xzcDlQNGtVUFlyNHVtY2tGM3RjOHoxSVN0ZEpVLWdpQkZoTEhjenBtMkg0YUZFWnkzSjdiQ0FPbHhpS1hoaktFOHlpMGpMMlF6dWNOZFVSODZkTnJINVd1dG5pY2lpSndnNmZKaW5Pby1DTGtRZG5UY1hkblJYQUhOR0RSV0IzUjZYbXloUENRYzdseE04OG43TlFBREpNUU4waDF4OE1vT3dUZEgzMTEyT3AzVWNnaWlQWmhwdHlUQjNDZG5SYmR5dlNtR2dMRl9CZGRJT3dOTk5jWENRTF9oVWdJNTBfVTFrZnlMdUwtR3djTW55VndsSC1LMmdkU2dQVjZsVDE0ZVczOUNfRlNBdDg1dnFJUENEMkZPdnI2WWRybTVGcUs5SHM0ZUsxNnFKMFRPU3E2bTNSVlVUeFMxbUI5Mm14MlBSWW9wdzRqN0pldUFfMnNCTnFDSjA0clZxWlByRjJrQUlTLXRqa0VWQUNpZEpZNkdFX0RYRVluY2dtZ3BvbldVUXlQczJrN2ZDZm8yckhxZTFBWDUzRDV4WWNvYUNrWXBTYklRNHdwZEk=",
+			"pageInfo": {
+				"totalResults": 100,
+				"resultsPerPage": 100
+			},
+			"items": [
+				{
+					"kind": "youtube#commentThread",
+					"etag": "1kYLPoyJNaJo-ti2TaBHUUsuRvE",
+					"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "VjrGf-v_UEgGoTYyrpIaxAnwl5A",
+							"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "늘풍님 3번 죽이시네ㅋㅋ 차에 치이고 보급에 부딪치고 땅에 떨궈지고ㅋㅋ",
+								"textOriginal": "늘풍님 3번 죽이시네ㅋㅋ 차에 치이고 보급에 부딪치고 땅에 떨궈지고ㅋㅋ",
+								"authorDisplayName": "늪자",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/y_2Kz9De_EWk7BY0R57z4LXSgTsAeVwlYwSOXRPHCKWuvy4iat2og08WV8XUvZJ9SjG9jxcLZw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC26AoZwHJ_hlYjoSD5LiU9w",
+								"authorChannelId": {
+									"value": "UC26AoZwHJ_hlYjoSD5LiU9w"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 308,
+								"publishedAt": "2021-05-27T11:10:13Z",
+								"updatedAt": "2021-05-27T11:10:13Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 8,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "b2pbO9H5rH6fc-EJjM8JRggInh0",
+								"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg.9NqSfPkVMBL9NqtNYVlevT",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "그리고 그거 편집하고 ㅋㅋ",
+									"textOriginal": "그리고 그거 편집하고 ㅋㅋ",
+									"parentId": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+									"authorDisplayName": "ᄋᄋᄋ",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh-TOz2CwthqfZsIC5YK75DH5priazoqnU-Qg=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC0SyGk-xpEJ8FqNXjitNrcg",
+									"authorChannelId": {
+										"value": "UC0SyGk-xpEJ8FqNXjitNrcg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:12:19Z",
+									"updatedAt": "2021-05-27T15:12:19Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "SGuxTLW0M-YTZI_nVHKT2GUFg_c",
+								"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg.9NqSfPkVMBL9NqkWs4LHUv",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@이인수 악마야...",
+									"textOriginal": "@이인수 악마야...",
+									"parentId": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+									"authorDisplayName": "으엥",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhS_9FvwcXAUJoVYwGubzpeXPba99YJbyAMUHmJ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCuTb-K3niSfHDC-pp__Tp1Q",
+									"authorChannelId": {
+										"value": "UCuTb-K3niSfHDC-pp__Tp1Q"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T13:54:56Z",
+									"updatedAt": "2021-05-27T13:54:56Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "eqc6gGxRmJpSWRYhaZVIUBVP_yQ",
+								"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg.9NqSfPkVMBL9NqcikBRQ5i",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅋㅋㅋ",
+									"textOriginal": "ㅋㅋㅋ",
+									"parentId": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+									"authorDisplayName": "가득이",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhFgMIS8fkP6U0a_AT83TalG1bMSRwN0ZAYgQk=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC7P9OvTge2EHF-JZh1SGvTg",
+									"authorChannelId": {
+										"value": "UC7P9OvTge2EHF-JZh1SGvTg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:46:47Z",
+									"updatedAt": "2021-05-27T12:46:47Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "iO61qjcpo7rSn98zShN_g8hCgSI",
+								"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg.9NqSfPkVMBL9Nqa8qvZtoZ",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "+편집에 죽고 4쿠션",
+									"textOriginal": "+편집에 죽고 4쿠션",
+									"parentId": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+									"authorDisplayName": "sean park",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh54pX5lfGO-M2GjoQ5THExUY9Y1BVpYy_F=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCoeVCnRoOkKoDIYAUSwKRUw",
+									"authorChannelId": {
+										"value": "UCoeVCnRoOkKoDIYAUSwKRUw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:24:17Z",
+									"updatedAt": "2021-05-27T12:24:17Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "JmwGRo0mST0V-mgAQg6CLRSivlY",
+								"id": "Ugw4uE5Yf_aQdp7tG_F4AaABAg.9NqSfPkVMBL9Nq_IVptMfD",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅋㅋㅋㅋㅋㅋㅌㅌㅌㅌㅌ",
+									"textOriginal": "ㅋㅋㅋㅋㅋㅋㅌㅌㅌㅌㅌ",
+									"parentId": "Ugw4uE5Yf_aQdp7tG_F4AaABAg",
+									"authorDisplayName": "민트망고",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngMgmiiQjzRYWHp7mvYqdUc2EwG88fesb1bapYjXQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCRI-PVsQ34gDKsFrp7qGsUA",
+									"authorChannelId": {
+										"value": "UCRI-PVsQ34gDKsFrp7qGsUA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:16:51Z",
+									"updatedAt": "2021-05-27T12:16:51Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "yxBEihPSweKz-hOVa22V6AWlLh4",
+					"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "yQfr9Ije-pLHxT4bXWBz9pjQt3w",
+							"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "중국 총은 2개씩이나 나왔는데 정작 국산 총은 언제 되어야 나와요???",
+								"textOriginal": "중국 총은 2개씩이나 나왔는데 정작 국산 총은 언제 되어야 나와요???",
+								"authorDisplayName": "이지원",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniDPXwbxETL-i-OIoD3o_SqlvKt06mCWrhu-w=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCcHhlvGnBswn8z87WYLMN0Q",
+								"authorChannelId": {
+									"value": "UCcHhlvGnBswn8z87WYLMN0Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 286,
+								"publishedAt": "2021-05-27T10:38:21Z",
+								"updatedAt": "2021-05-27T10:38:21Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 49,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "n_ZiCoXWzdup7UYuLuwqfCZ6S6M",
+								"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg.9NqP0zXbPVO9Ns8W1ryUVS",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@이은찬 그건 미국 총기임",
+									"textOriginal": "@이은찬 그건 미국 총기임",
+									"parentId": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+									"authorDisplayName": "이지원",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniDPXwbxETL-i-OIoD3o_SqlvKt06mCWrhu-w=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCcHhlvGnBswn8z87WYLMN0Q",
+									"authorChannelId": {
+										"value": "UCcHhlvGnBswn8z87WYLMN0Q"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-28T02:52:31Z",
+									"updatedAt": "2021-05-28T02:52:31Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "7zFyZh8RbSnFjs1wZukt4S7VaeQ",
+								"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg.9NqP0zXbPVO9Ns1ec6Fccj",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@이은찬 그건 라이센스 만료된지 오래임",
+									"textOriginal": "@이은찬 그건 라이센스 만료된지 오래임",
+									"parentId": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+									"authorDisplayName": "기모찌 존슨",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnisJaFY1dKDG2bTOGTWbZP8Ev9jVDwFUAWepg=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCbVvb1I4P1P8Wbj3tBstPAg",
+									"authorChannelId": {
+										"value": "UCbVvb1I4P1P8Wbj3tBstPAg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-28T01:52:39Z",
+									"updatedAt": "2021-05-28T01:52:39Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "S3ZOMQYk3o7QCJ0hE1uDd_ZI8lI",
+								"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg.9NqP0zXbPVO9Ns1MmLa7Nv",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "M16 있지마",
+									"textOriginal": "M16 있지마",
+									"parentId": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+									"authorDisplayName": "이은찬",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjd_7CMUdQrzHN4aYcHvRlFtjmPbGtqTLxBRw=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCNN8JLseqb1aVJnBN7Ah0GQ",
+									"authorChannelId": {
+										"value": "UCNN8JLseqb1aVJnBN7Ah0GQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-28T01:50:05Z",
+									"updatedAt": "2021-05-28T01:50:05Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "E7yKrTy4mpaJLTRm-oaPgNk0ZgQ",
+								"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg.9NqP0zXbPVO9Nru5l4uE-r",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@2 HH QBU",
+									"textOriginal": "@2 HH QBU",
+									"parentId": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+									"authorDisplayName": "SSK",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjr_CKqCu9xResx98eoReB2O5CXC_IZGB3-GsB0yQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCROIQR7Imclxf0Jmn-EIBPA",
+									"authorChannelId": {
+										"value": "UCROIQR7Imclxf0Jmn-EIBPA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-28T00:37:52Z",
+									"updatedAt": "2021-05-28T00:37:52Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "8YdVTY5Dmp5ayXcYS6HM7hPJydI",
+								"id": "Ugx2-ssyA4ssQa9V6qN4AaABAg.9NqP0zXbPVO9Nrs71wfRro",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@Иван Денисов 아아 이건 ㄹㅇ ㅇㅈ이요",
+									"textOriginal": "@Иван Денисов 아아 이건 ㄹㅇ ㅇㅈ이요",
+									"parentId": "Ugx2-ssyA4ssQa9V6qN4AaABAg",
+									"authorDisplayName": "이지원",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniDPXwbxETL-i-OIoD3o_SqlvKt06mCWrhu-w=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCcHhlvGnBswn8z87WYLMN0Q",
+									"authorChannelId": {
+										"value": "UCcHhlvGnBswn8z87WYLMN0Q"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-28T00:20:34Z",
+									"updatedAt": "2021-05-28T00:20:34Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "_jcXXIQmS87Yi7M0Uip-_hRDfFk",
+					"id": "UgyV0GNm1d1T-RCESmN4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "DUlQ6HLJNZiM8QU9CkBSXt_1YyI",
+							"id": "UgyV0GNm1d1T-RCESmN4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m14s\">3:14</a> 블루님 컨텐츠 할것 찾았습니다",
+								"textOriginal": "3:14 블루님 컨텐츠 할것 찾았습니다",
+								"authorDisplayName": "오이프랜드",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni7RBqVZDSAKbSJ6LXGbgifKiAyqf09gbQY3jlkFQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCrlvRtAmjOGCOvLRtnyuMIA",
+								"authorChannelId": {
+									"value": "UCrlvRtAmjOGCOvLRtnyuMIA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 169,
+								"publishedAt": "2021-05-27T10:58:11Z",
+								"updatedAt": "2021-05-27T10:58:11Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 11,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "SsgbUBZYxVS-BgaFiFhEHNW7ykA",
+								"id": "UgyV0GNm1d1T-RCESmN4AaABAg.9NqRIDuA8yo9Nr81egjcMi",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@크루아상 π??",
+									"textOriginal": "@크루아상 π??",
+									"parentId": "UgyV0GNm1d1T-RCESmN4AaABAg",
+									"authorDisplayName": "caffine",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniBg-xDjLX8YT8Vc7rtQIu1JrqeRnBl8q4l6ZWp=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCQywk6alrsOl42gyj9EF_jw",
+									"authorChannelId": {
+										"value": "UCQywk6alrsOl42gyj9EF_jw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T17:29:08Z",
+									"updatedAt": "2021-05-27T17:29:08Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "JsoOkkoQVCAT1T1x-DOYvy0311Y",
+								"id": "UgyV0GNm1d1T-RCESmN4AaABAg.9NqRIDuA8yo9Nqtih0BUMD",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@오이프랜드 저렇게 쏘는거 저번에 해명했네여",
+									"textOriginal": "@오이프랜드 저렇게 쏘는거 저번에 해명했네여",
+									"parentId": "UgyV0GNm1d1T-RCESmN4AaABAg",
+									"authorDisplayName": "ᄒᄋᄒᄋ",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjPC2jXirOBjI-bYOmW5_uDn9lfMuktqlg4N6eh=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC7q91ws8NaqrOCNLK_pVMsA",
+									"authorChannelId": {
+										"value": "UC7q91ws8NaqrOCNLK_pVMsA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:15:20Z",
+									"updatedAt": "2021-05-27T15:15:20Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "bq5JFmLCiTW-AyoRYihhrQ81lww",
+								"id": "UgyV0GNm1d1T-RCESmN4AaABAg.9NqRIDuA8yo9Nqjn-FKfKb",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "3.14....?",
+									"textOriginal": "3.14....?",
+									"parentId": "UgyV0GNm1d1T-RCESmN4AaABAg",
+									"authorDisplayName": "크루아상",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjMM5Yc3y9cevlUoNkeKJp91XvXxlg1Hdy5lGqWhA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC2OGmy9cK-yOWNdp8Qfe2uw",
+									"authorChannelId": {
+										"value": "UC2OGmy9cK-yOWNdp8Qfe2uw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T13:48:32Z",
+									"updatedAt": "2021-05-27T13:48:32Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "VcZ11GwdvULZSFWnJ3rSs31_DsA",
+								"id": "UgyV0GNm1d1T-RCESmN4AaABAg.9NqRIDuA8yo9Nqfyx1zOiP",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "예전에 비켄디할때 저래서 해명하지 않았나?",
+									"textOriginal": "예전에 비켄디할때 저래서 해명하지 않았나?",
+									"parentId": "UgyV0GNm1d1T-RCESmN4AaABAg",
+									"authorDisplayName": "잠인준",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/DeZL8TGJ2qyfyzVlWKRMXnMPCHn0LYqyg37Dl95Nv18T1lK1IwKAAeZoZJHSb3imK-Dhih92c8M=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCMI9uYrUoY0h2B0pOGEjDFQ",
+									"authorChannelId": {
+										"value": "UCMI9uYrUoY0h2B0pOGEjDFQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T13:15:13Z",
+									"updatedAt": "2021-05-27T13:15:13Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "T86oH-5qWxwnWZggILw3cntiOgc",
+								"id": "UgyV0GNm1d1T-RCESmN4AaABAg.9NqRIDuA8yo9NqdFjAgTcw",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "뭐 모르셨을수도 있으시지만 영상 다 보시지 않으신거같으신대",
+									"textOriginal": "뭐 모르셨을수도 있으시지만 영상 다 보시지 않으신거같으신대",
+									"parentId": "UgyV0GNm1d1T-RCESmN4AaABAg",
+									"authorDisplayName": "초록딱지",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngzoqnvU_wI3AhopOqvih13qny2Rs1yVXvEH9ZU=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCSY0VMerijrBB1ft7Q2MSMA",
+									"authorChannelId": {
+										"value": "UCSY0VMerijrBB1ft7Q2MSMA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:51:26Z",
+									"updatedAt": "2021-05-27T12:51:26Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "HB2IqkrzCYItiJ2_KGLDAICB3uo",
+					"id": "UgxZ_ggEYb2zAyobCKd4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "EM3uZvE4N7tFeiUeOcjRaE_y030",
+							"id": "UgxZ_ggEYb2zAyobCKd4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=6m01s\">6:01</a> 엄청 진지한 피드백 ㅋㅋㅋㅋ",
+								"textOriginal": "6:01 엄청 진지한 피드백 ㅋㅋㅋㅋ",
+								"authorDisplayName": "엘EL",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhDCA3U3nL27tXOZ_mNQv2f7lS717Z3tAo95LRr_Q=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCEQ3nm4GKVA1_WDRApGdX2A",
+								"authorChannelId": {
+									"value": "UCEQ3nm4GKVA1_WDRApGdX2A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 64,
+								"publishedAt": "2021-05-27T13:27:33Z",
+								"updatedAt": "2021-05-27T13:27:33Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 2,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "ELcOQOdkfQwX5oiVzR5ouIZmtpk",
+								"id": "UgxZ_ggEYb2zAyobCKd4AaABAg.9NqhOGSVUmd9NqtgzKxfnG",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "이게 뭐에유! 사장님 그러실거면 양심적으로 보급은 아니쥬!",
+									"textOriginal": "이게 뭐에유! 사장님 그러실거면 양심적으로 보급은 아니쥬!",
+									"parentId": "UgxZ_ggEYb2zAyobCKd4AaABAg",
+									"authorDisplayName": "프레스토수쿠스",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni2ezV2ZxkLtur4orm9vzB-EH4f260ox3xdcsY=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCW7l8D8-6ayWVTEUnyoEEEw",
+									"authorChannelId": {
+										"value": "UCW7l8D8-6ayWVTEUnyoEEEw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:15:06Z",
+									"updatedAt": "2021-05-27T15:15:13Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "8qcS48V7aYdZunvX_-U9jwfiCZM",
+								"id": "UgxZ_ggEYb2zAyobCKd4AaABAg.9NqhOGSVUmd9Nqo-clF7gN",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄷ",
+									"textOriginal": "ㄷ",
+									"parentId": "UgxZ_ggEYb2zAyobCKd4AaABAg",
+									"authorDisplayName": "리공 유튜브",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/KR012rbcavCDuSoPHLpmCgQvx2lVpHMEz4K32DhtsBbFXC-PPvAYenukx4v7s-n290nvxD1E=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCdSrKV4DwXP9vDVVF-i_stw",
+									"authorChannelId": {
+										"value": "UCdSrKV4DwXP9vDVVF-i_stw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T14:25:21Z",
+									"updatedAt": "2021-05-27T14:25:21Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "QKb1Aq43Si88Wd6RjCoiSZMf2KU",
+					"id": "UgwvG7CiycTdgTxa_KV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "9r9HmzwNUjyDugAl8gbYBW98Nbs",
+							"id": "UgwvG7CiycTdgTxa_KV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=2m19s\">2:19</a> 난폭운전 멈춰!!",
+								"textOriginal": "2:19 난폭운전 멈춰!!",
+								"authorDisplayName": "Seong",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjlWeV-04DdemK6tcKx-1nORw_7KR21VJZizA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCosSQ3PUN8eNsGI5LOLDiQA",
+								"authorChannelId": {
+									"value": "UCosSQ3PUN8eNsGI5LOLDiQA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 61,
+								"publishedAt": "2021-05-27T10:15:02Z",
+								"updatedAt": "2021-05-27T10:15:02Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "EGkGMFs-p87i5gxQyakoHqsXf5Q",
+								"id": "UgwvG7CiycTdgTxa_KV4AaABAg.9NqMMCdeIX29NsDwjEQ9L1",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "멈춰!!!",
+									"textOriginal": "멈춰!!!",
+									"parentId": "UgwvG7CiycTdgTxa_KV4AaABAg",
+									"authorDisplayName": "그냥사람아님",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/5EHb_RRh62OnGXG9QfyQORnPB2b0vAJZfeQOFM00i3xtteCjqUTBEifq7padBN1t-g57XCIq3w=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCkBpuSn9aqorp8Wrxe880SQ",
+									"authorChannelId": {
+										"value": "UCkBpuSn9aqorp8Wrxe880SQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T03:39:59Z",
+									"updatedAt": "2021-05-28T03:39:59Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "ifKkccX0Cpda3m70CegJ7fOXPEc",
+					"id": "Ugx20GAumWy1S61Pu0Z4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "NIvrkGXq-nLf4olX5KZEnLWVgH0",
+							"id": "Ugx20GAumWy1S61Pu0Z4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=0m37s\">0:37</a> 삼천궁녀 ㅋㅋㅋㅋㅋ",
+								"textOriginal": "0:37 삼천궁녀 ㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "A.N",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngucxe-PlXVwUYVOahbQsHQKkRmnieCgKEumCSbyg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCuqpa7TicYIOKTZM_BbhHjw",
+								"authorChannelId": {
+									"value": "UCuqpa7TicYIOKTZM_BbhHjw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 33,
+								"publishedAt": "2021-05-27T11:49:07Z",
+								"updatedAt": "2021-05-27T11:49:07Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "WQ5Rz3vlxcC94WGdPkyU5rJ3wHg",
+					"id": "Ugx92s7r_uP3KFoDgY14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "aKynLp8mHgbVEHp_KFUqS51KJ1k",
+							"id": "Ugx92s7r_uP3KFoDgY14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=4m57s\">4:57</a> 오케이 취향확인... 존중합니다ㅋㅋ",
+								"textOriginal": "4:57 오케이 취향확인... 존중합니다ㅋㅋ",
+								"authorDisplayName": "권주안",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngdfr70My_3vAi7TtMHNGQdN6P2wYHhfmk6DWZ2YA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCQEoCPX3H_Zfk54E_6uKIzA",
+								"authorChannelId": {
+									"value": "UCQEoCPX3H_Zfk54E_6uKIzA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 12,
+								"publishedAt": "2021-05-27T17:22:59Z",
+								"updatedAt": "2021-05-27T17:23:26Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "550Zr0Bg5Wj_mOPJm1vGoghrIZk",
+								"id": "Ugx92s7r_uP3KFoDgY14AaABAg.9Nr7KdWyCbD9NrxsoqSu7r",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "♥제 유튜브는 절대 들어오면 안되는거에요♥♥",
+									"textOriginal": "♥제 유튜브는 절대 들어오면 안되는거에요♥♥",
+									"parentId": "Ugx92s7r_uP3KFoDgY14AaABAg",
+									"authorDisplayName": "리자TV 내 채널 절대 오지마라!!",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni6FYyG8TklEl3-cFQ0rtIy0mcwR2l0TChmAyOd=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC2pyTNfxUq7haT073u4rxqQ",
+									"authorChannelId": {
+										"value": "UC2pyTNfxUq7haT073u4rxqQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T01:10:55Z",
+									"updatedAt": "2021-05-28T01:10:55Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "fxaAtxXu0DOPFmrxr8XjHVxTxsU",
+					"id": "UgwwWEtpfTYLOyAD_MB4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "JppYLtIDfrju7qrGwtvxXpKlr2Y",
+							"id": "UgwwWEtpfTYLOyAD_MB4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "링스랑 링스 총알을 플레어건으로 쏴서 나오는 보급에만 스폰되게하면 벨런스 맞을듯",
+								"textOriginal": "링스랑 링스 총알을 플레어건으로 쏴서 나오는 보급에만 스폰되게하면 벨런스 맞을듯",
+								"authorDisplayName": "죄송합니다진성 중증 로리콘 입니다",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh_moReaiDQYyS_7pTz-YqfVuOJwahx-Zz4W7wv=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCCy95dk41ijTOblZlhOaivg",
+								"authorChannelId": {
+									"value": "UCCy95dk41ijTOblZlhOaivg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 15,
+								"publishedAt": "2021-05-27T10:37:12Z",
+								"updatedAt": "2021-05-27T10:37:24Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "BBjeXdjZ4XGY7F33U3yusTr6nsI",
+								"id": "UgwwWEtpfTYLOyAD_MB4AaABAg.9NqOtZdkrsc9NryMJvxZCQ",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "오~ 괜찮다",
+									"textOriginal": "오~ 괜찮다",
+									"parentId": "UgwwWEtpfTYLOyAD_MB4AaABAg",
+									"authorDisplayName": "에마드",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhp3rB-IFRD4WY1eyB2xxsf70V4ThCjAwq64kM7=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCBdvgxCABlENZw6WwI4wjzg",
+									"authorChannelId": {
+										"value": "UCBdvgxCABlENZw6WwI4wjzg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T01:15:04Z",
+									"updatedAt": "2021-05-28T01:15:04Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "9IquGI5eo4ZC4Eu2T8fYT74ZC3Q",
+					"id": "UgwB506j1F9WqvN_HuB4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "sgExMe1EN2KOw9XHcE1v5l85JP0",
+							"id": "UgwB506j1F9WqvN_HuB4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "배그 요번 한국맵 컨셉아트, 한국맵인건 알고있었지만 된장찌개 냄새가 날 정도로 한국색이 짙을 줄은 몰랐지.",
+								"textOriginal": "배그 요번 한국맵 컨셉아트, 한국맵인건 알고있었지만 된장찌개 냄새가 날 정도로 한국색이 짙을 줄은 몰랐지.",
+								"authorDisplayName": "Ogol KOR",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng1Y1elNQCPtab7Tnhbgr7F-z31fztnAzDZZmia=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC_y2HbAc4-ePuR_qPSa35XQ",
+								"authorChannelId": {
+									"value": "UC_y2HbAc4-ePuR_qPSa35XQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 7,
+								"publishedAt": "2021-05-27T16:38:01Z",
+								"updatedAt": "2021-05-27T16:38:01Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "Djruarh9hhjemhbRzeAYcEvw13Q",
+								"id": "UgwB506j1F9WqvN_HuB4AaABAg.9Nr2BEpXpnC9NrwwPoarUW",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+									"textOriginal": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+									"parentId": "UgwB506j1F9WqvN_HuB4AaABAg",
+									"authorDisplayName": "지훈",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniQA5572FOa2uOmnV2-h-HZSSMzxJK1-SBxyqxr=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCHVHU9tXfxn7Tm9rWXpNpeA",
+									"authorChannelId": {
+										"value": "UCHVHU9tXfxn7Tm9rWXpNpeA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T01:02:40Z",
+									"updatedAt": "2021-05-28T01:02:40Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "BvJvWKYW-30gYpzAKCj79ZlNk3A",
+					"id": "UgwMoYe-Zj5POmiseup4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "x9HFQ_RstG3ycstg_atGwyrlUOE",
+							"id": "UgwMoYe-Zj5POmiseup4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m28s\">1:28</a> 컴배가 모배로 모배가 컴배로 변해가고 있다",
+								"textOriginal": "1:28 컴배가 모배로 모배가 컴배로 변해가고 있다",
+								"authorDisplayName": "YT -초코",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhd5_Z9p9khqFvSVWIpuV7UCz8F-B79AB9IVToKLg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCejjOvw0misrY55nuxmS_sw",
+								"authorChannelId": {
+									"value": "UCejjOvw0misrY55nuxmS_sw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 281,
+								"publishedAt": "2021-05-27T10:55:02Z",
+								"updatedAt": "2021-05-27T10:55:02Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 29,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "pg__DueXAZaGHkqKyM_21rfO9Z0",
+								"id": "UgwMoYe-Zj5POmiseup4AaABAg.9NqQw7G91vp9Ns8hX-DVu-",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇ",
+									"textOriginal": "ㄹㅇ",
+									"parentId": "UgwMoYe-Zj5POmiseup4AaABAg",
+									"authorDisplayName": "김도훈",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhdAixNyo91qv8z3WTf1Qo_XnWZeMmWEtHKImui9Q=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC7_I8GF-aRi3u1BQ1tTSmNw",
+									"authorChannelId": {
+										"value": "UC7_I8GF-aRi3u1BQ1tTSmNw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T02:54:14Z",
+									"updatedAt": "2021-05-28T02:54:14Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "hq6BdNH_pxg4_z3nVPoSk_0Q5hM",
+								"id": "UgwMoYe-Zj5POmiseup4AaABAg.9NqQw7G91vp9Nra77Mf07T",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@충신드림몬죄송합니다 지금 읽어보니 내가 왜 저렇게 띄꺼운 말투로 댓글을 썼는지.. 정말 죄송합니다",
+									"textOriginal": "@충신드림몬죄송합니다 지금 읽어보니 내가 왜 저렇게 띄꺼운 말투로 댓글을 썼는지.. 정말 죄송합니다",
+									"parentId": "UgwMoYe-Zj5POmiseup4AaABAg",
+									"authorDisplayName": "피케이다다",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngZ-ZNp1Vgl2kybFR7GZhGhgeAIy0QXwZW4s4Hu=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCKdQBOY5YtvxgMI7HgYuTig",
+									"authorChannelId": {
+										"value": "UCKdQBOY5YtvxgMI7HgYuTig"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T21:43:17Z",
+									"updatedAt": "2021-05-27T21:43:17Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "JnJ0_Zbp4jsSMs7vUGOcCT2_vqE",
+								"id": "UgwMoYe-Zj5POmiseup4AaABAg.9NqQw7G91vp9NrB0fAf6xt",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "&quot;수익성?&quot;",
+									"textOriginal": "\"수익성?\"",
+									"parentId": "UgwMoYe-Zj5POmiseup4AaABAg",
+									"authorDisplayName": "미접이아님",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngb5yPmmi4uF6eGAEJkYP854v6s5O2EL0YkOR0FkQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC5I7Fwug9cX0crbtLLI2mZg",
+									"authorChannelId": {
+										"value": "UC5I7Fwug9cX0crbtLLI2mZg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T17:55:13Z",
+									"updatedAt": "2021-05-27T17:55:13Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "t0KZSzTMF3jPS5UDvTnF-lwWOkI",
+								"id": "UgwMoYe-Zj5POmiseup4AaABAg.9NqQw7G91vp9Nr6P0xXISp",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇㅋㅋㅋ",
+									"textOriginal": "ㄹㅇㅋㅋㅋ",
+									"parentId": "UgwMoYe-Zj5POmiseup4AaABAg",
+									"authorDisplayName": "김태형",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniAJufCnlve10dpNm4i4rm3S_v38DLQCpjnAtIq=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC_qMtPotAC15dczpVA1zg4g",
+									"authorChannelId": {
+										"value": "UC_qMtPotAC15dczpVA1zg4g"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T17:14:51Z",
+									"updatedAt": "2021-05-27T17:14:51Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "ZVD-Q_VxsMTOXTOrlznodQAuHmo",
+								"id": "UgwMoYe-Zj5POmiseup4AaABAg.9NqQw7G91vp9NqwOYGQFhD",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@충신드림몬 ㅇㅈ ㄹㅇ 말투 띄꺼움",
+									"textOriginal": "@충신드림몬 ㅇㅈ ㄹㅇ 말투 띄꺼움",
+									"parentId": "UgwMoYe-Zj5POmiseup4AaABAg",
+									"authorDisplayName": "심심해",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngkG6L-Z7sCgKpge7O6ibnQcRtIzF2Inb4FgA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCiv--tS5nmH-mDXCbZGGDnQ",
+									"authorChannelId": {
+										"value": "UCiv--tS5nmH-mDXCbZGGDnQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:38:40Z",
+									"updatedAt": "2021-05-27T15:38:40Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "4Ik0TZxrJAirrJ2cdkyn32l3OYY",
+					"id": "Ugz7-IbYqSXPF-HJTAp4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "r5zUw1w0JMka_1kfdQV6Ait5-kc",
+							"id": "Ugz7-IbYqSXPF-HJTAp4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m09s\">3:09</a>에 편집자님이 자기미레을 말했네ㅋㅋㄱㅋ",
+								"textOriginal": "3:09에 편집자님이 자기미레을 말했네ㅋㅋㄱㅋ",
+								"authorDisplayName": "홍순균",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjjFQze-Spf0zWbFUS_leGAKL0TCQgtm47XrVYy=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCDRdnqqH66rRSRgl8HPELyA",
+								"authorChannelId": {
+									"value": "UCDRdnqqH66rRSRgl8HPELyA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 6,
+								"publishedAt": "2021-05-27T15:01:52Z",
+								"updatedAt": "2021-05-27T15:01:52Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 2,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "JNjPmlFhVAGab1nlXdtc9wWGdiA",
+								"id": "Ugz7-IbYqSXPF-HJTAp4AaABAg.9NqsB-sZt5V9Nrqx_dugyu",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "미래입니다",
+									"textOriginal": "미래입니다",
+									"parentId": "Ugz7-IbYqSXPF-HJTAp4AaABAg",
+									"authorDisplayName": "진격의제라드",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngINxMGJ6SYALcs6lZgsyQDX4zoVzktTxyxsX32uw=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCdQgSQl2HfTQ_wRkRPHTufw",
+									"authorChannelId": {
+										"value": "UCdQgSQl2HfTQ_wRkRPHTufw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T00:10:24Z",
+									"updatedAt": "2021-05-28T00:10:24Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "2eJoN0GMXIqvHzsVbCTn3iVuHok",
+								"id": "Ugz7-IbYqSXPF-HJTAp4AaABAg.9NqsB-sZt5V9NrmftUd2mB",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "미레을은 어디나라 말이야",
+									"textOriginal": "미레을은 어디나라 말이야",
+									"parentId": "Ugz7-IbYqSXPF-HJTAp4AaABAg",
+									"authorDisplayName": "조찬수찬수",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj5nojhFAE9FEBNFpBys8I5-hxts-AIEJal_YLImw=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCJBdIOewSbUrxo2xiWf1OyA",
+									"authorChannelId": {
+										"value": "UCJBdIOewSbUrxo2xiWf1OyA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T23:33:02Z",
+									"updatedAt": "2021-05-27T23:33:02Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "FGXBFkT-JqWAl_1Rtj05xZ8gSt0",
+					"id": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "8LaHz8dsnmKrXoJkwOsoIUmCoBk",
+							"id": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m25s\">1:25</a> 모배화인가..",
+								"textOriginal": "1:25 모배화인가..",
+								"authorDisplayName": "2분5초만찍는남자",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnijPuIBCmgLGP2FA2Vrko0C2Q_NjjxBoImZNRjt=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCwvShvkX8-zxJlemnBkAywg",
+								"authorChannelId": {
+									"value": "UCwvShvkX8-zxJlemnBkAywg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 44,
+								"publishedAt": "2021-05-27T10:44:21Z",
+								"updatedAt": "2021-05-27T10:44:21Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 5,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "uJz0hgjxdmrNjp87EGKT_dV-JGY",
+								"id": "UgxYAiZ0MoPu4PsV73d4AaABAg.9NqPhwK22Om9Nrk43o5Dl9",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅇㅈㅇㅈ",
+									"textOriginal": "ㅇㅈㅇㅈ",
+									"parentId": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+									"authorDisplayName": "쿠악",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/yYKDrTMeTLfQ1rYfRnAlWebJX7J7lRwQ-Q4FCUZML5EDtCjgHulIeu_VK1aEmi2Dx7dHrAB2oA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCiWUv9TxEemD0sqx1rmvz-w",
+									"authorChannelId": {
+										"value": "UCiWUv9TxEemD0sqx1rmvz-w"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T23:10:15Z",
+									"updatedAt": "2021-05-27T23:10:15Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "ZwysQGfDvfLsucwEKaMF5TklwTw",
+								"id": "UgxYAiZ0MoPu4PsV73d4AaABAg.9NqPhwK22Om9NqQmvnAMFz",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "그니까",
+									"textOriginal": "그니까",
+									"parentId": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+									"authorDisplayName": "레드킬러",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjubxRhKgq2HDUhKbY-Vz72qa8qwOiZ2REUlf-7=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCVoTlq_NvSaj2SBjvLWLh-A",
+									"authorChannelId": {
+										"value": "UCVoTlq_NvSaj2SBjvLWLh-A"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:53:46Z",
+									"updatedAt": "2021-05-27T10:53:46Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "DuRWJYSX_algL4gSQSLVYoDblgQ",
+								"id": "UgxYAiZ0MoPu4PsV73d4AaABAg.9NqPhwK22Om9NqQRq1hrmt",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅇㅈ",
+									"textOriginal": "ㅇㅈ",
+									"parentId": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+									"authorDisplayName": "REX Armada",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngA3u7pvreKsGhPE5_livMJw69tP67TLDCtnA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCc7Sdge5EGmJQ4aHMsf_x6g",
+									"authorChannelId": {
+										"value": "UCc7Sdge5EGmJQ4aHMsf_x6g"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:50:45Z",
+									"updatedAt": "2021-05-27T10:50:45Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "ryqbOIaUai3zw9_9jU22gC9vOuo",
+								"id": "UgxYAiZ0MoPu4PsV73d4AaABAg.9NqPhwK22Om9NqQIOlrD6X",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅇㅈ",
+									"textOriginal": "ㅇㅈ",
+									"parentId": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+									"authorDisplayName": "감자",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj4LbFFWnIyBP4pUA3bgv-UN980MfyUN1clWZJ6=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCPZVNGvRDw4ZLtRGgHxsTlg",
+									"authorChannelId": {
+										"value": "UCPZVNGvRDw4ZLtRGgHxsTlg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:49:28Z",
+									"updatedAt": "2021-05-27T10:49:28Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "--mxQdGePRbTK1q8Ejtc5zs_u0E",
+								"id": "UgxYAiZ0MoPu4PsV73d4AaABAg.9NqPhwK22Om9NqQBHBNpft",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇㅋㅋ",
+									"textOriginal": "ㄹㅇㅋㅋ",
+									"parentId": "UgxYAiZ0MoPu4PsV73d4AaABAg",
+									"authorDisplayName": "맘미매미",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjenXzuUVyLL_mKEUJWkKC6m651scUkzqJC5Elj=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC_n8MN79QpaQVZOZWT97KbQ",
+									"authorChannelId": {
+										"value": "UC_n8MN79QpaQVZOZWT97KbQ"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:48:29Z",
+									"updatedAt": "2021-05-27T10:48:29Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "NnIcM3S2xVgsVkCLmZFtc2pnF_s",
+					"id": "UgxW0qDOD6RgFJW_-u14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "mPdhIG-N9GH22RBxc90dLqAxCrA",
+							"id": "UgxW0qDOD6RgFJW_-u14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "총알 5발 실화냐 진짜 가슴이 웅장해지는 총알 수다",
+								"textOriginal": "총알 5발 실화냐 진짜 가슴이 웅장해지는 총알 수다",
+								"authorDisplayName": "만날우는우엉",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhsLBgH1wBN6AeEX181BUG00dJ3iV-lvHRA9g=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCpWdYXdQbZwRdEiS0uWhlSQ",
+								"authorChannelId": {
+									"value": "UCpWdYXdQbZwRdEiS0uWhlSQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 44,
+								"publishedAt": "2021-05-27T10:47:33Z",
+								"updatedAt": "2021-05-27T10:47:33Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 3,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "JlwFYn2Pk7O0luU394rbMyS8t0M",
+								"id": "UgxW0qDOD6RgFJW_-u14AaABAg.9NqQ4PTE4kF9Nry0IM81xz",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "그럼 판처는 머가되냐",
+									"textOriginal": "그럼 판처는 머가되냐",
+									"parentId": "UgxW0qDOD6RgFJW_-u14AaABAg",
+									"authorDisplayName": "이신",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhS15fXGea_cd9MWrVr-4-te5MxkfFkZkY9_AIy=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC42-jyuDp9thuMlFKmqpl0g",
+									"authorChannelId": {
+										"value": "UC42-jyuDp9thuMlFKmqpl0g"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-28T01:12:04Z",
+									"updatedAt": "2021-05-28T01:12:04Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "eZdgF2Agc42dd4a69y7VdSZT1u8",
+								"id": "UgxW0qDOD6RgFJW_-u14AaABAg.9NqQ4PTE4kF9NrQZ3fQHv7",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "7발이면 모를까..",
+									"textOriginal": "7발이면 모를까..",
+									"parentId": "UgxW0qDOD6RgFJW_-u14AaABAg",
+									"authorDisplayName": "짱아찌더쿠",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngw4ZKwWhQ8yNvlG6ugZ19s_EoyiG9AI4Du7AM9=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCVDmpfFLl7x63fLLvFTdD-A",
+									"authorChannelId": {
+										"value": "UCVDmpfFLl7x63fLLvFTdD-A"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T20:10:59Z",
+									"updatedAt": "2021-05-27T20:10:59Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "ZbDj_Oh42M9SAecdwsqH3svQKBw",
+								"id": "UgxW0qDOD6RgFJW_-u14AaABAg.9NqQ4PTE4kF9Nq_VmsQght",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "그래도 아직 테스트 서버니 조정되서 나올 수도요",
+									"textOriginal": "그래도 아직 테스트 서버니 조정되서 나올 수도요",
+									"parentId": "UgxW0qDOD6RgFJW_-u14AaABAg",
+									"authorDisplayName": "HoRI Zon",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhvrOAxvSGa5dDq85nmrTlMhD3ODD1EVtSQGuCbAQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCSeoIyBt2c9ijLTzAXJLdlA",
+									"authorChannelId": {
+										"value": "UCSeoIyBt2c9ijLTzAXJLdlA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:18:40Z",
+									"updatedAt": "2021-05-27T12:18:40Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "M5im6kXTFL_1XwZCXDH_yF7YgeU",
+					"id": "Ugxhv0OKFeYI7FZ5oRd4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "vX-A3wogWL58M2r3Nyw60ZHVsYI",
+							"id": "Ugxhv0OKFeYI7FZ5oRd4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "다다다다다다다다음 영상: 베릴 씀 또다시",
+								"textOriginal": "다다다다다다다다음 영상: 베릴 씀 또다시",
+								"authorDisplayName": "송민성",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngMG97Ts4QIPcOqF52HsfRp9Cc8u8reBlkzOA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UComirqGxdSo26O2b30SlPKQ",
+								"authorChannelId": {
+									"value": "UComirqGxdSo26O2b30SlPKQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 2,
+								"publishedAt": "2021-05-27T10:37:03Z",
+								"updatedAt": "2021-05-27T10:37:03Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "DpcZ0DFdLLY0UtjtY_4cJpt1NP4",
+					"id": "Ugwxvv2D6hltSFl3CPZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "bVX_aThvKxgchekP0WTaM9astCU",
+							"id": "Ugwxvv2D6hltSFl3CPZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "링스는 근접에서 쓰면 작살나겠누 ㅋㅋㅋㅋ",
+								"textOriginal": "링스는 근접에서 쓰면 작살나겠누 ㅋㅋㅋㅋ",
+								"authorDisplayName": "박창건_개인",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhwsY3vbmeAxVdiv7l_TeYAiScXNdkv7hNiIg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCFDQcqLy1hg8WwQeuUo5UJg",
+								"authorChannelId": {
+									"value": "UCFDQcqLy1hg8WwQeuUo5UJg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:53:35Z",
+								"updatedAt": "2021-05-27T13:53:35Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "OrP8HxXuig3k6HI0k7d83QhgSUo",
+					"id": "UgzIF8iHv39rxd84Aud4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "tkSpu_k_h_Aqjn6aPbgbYycT4kE",
+							"id": "UgzIF8iHv39rxd84Aud4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=0m39s\">0:39</a> 무지성 좀비같넼ㅋㅋ",
+								"textOriginal": "0:39 무지성 좀비같넼ㅋㅋ",
+								"authorDisplayName": "0_JENNIE_0",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngZwkMrwy2XDUwheV72pi_W6lE1nBdPcFkhwMCB2A=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCaHrjkJOaUClEEAzDMc080g",
+								"authorChannelId": {
+									"value": "UCaHrjkJOaUClEEAzDMc080g"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T11:03:58Z",
+								"updatedAt": "2021-05-27T11:03:58Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "7o4WnZB5yl1LppI9Iv9UW0N24kk",
+					"id": "UgzeyNHvrahLleX89Gl4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "ubYzqDYjckKqGtGZZgNxKp-8k4o",
+							"id": "UgzeyNHvrahLleX89Gl4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "미라마 리마스터 별거 없음..<br>또한 새로운총? 거의 아무도 안쓸거같음..<br>신차? 미라마만 나옴...<br>결론: 타이거 맵 언제 나옴??ㅋㅋㅋㅋ",
+								"textOriginal": "미라마 리마스터 별거 없음..\n또한 새로운총? 거의 아무도 안쓸거같음..\n신차? 미라마만 나옴...\n결론: 타이거 맵 언제 나옴??ㅋㅋㅋㅋ",
+								"authorDisplayName": "오살",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniX9knLJkj1FpALt2i76gRNABbgEnnYDcmod9-f=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC-lismBbwGFfph12jcRKvFQ",
+								"authorChannelId": {
+									"value": "UC-lismBbwGFfph12jcRKvFQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 2,
+								"publishedAt": "2021-05-27T11:15:31Z",
+								"updatedAt": "2021-05-27T11:15:31Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "DMXI4UwMhLy3xkTF0y9nOfMO92w",
+					"id": "Ugz3veZQ4FNexpTZuGF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "lG_H_VAXxnFkbQLM4EHBbXqRIyQ",
+							"id": "Ugz3veZQ4FNexpTZuGF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m43s\">1:43</a> 모바일은 한단계 더 넘어선 판타지 fps가 됬다는 슬픈 이야기..",
+								"textOriginal": "1:43 모바일은 한단계 더 넘어선 판타지 fps가 됬다는 슬픈 이야기..",
+								"authorDisplayName": "핫키",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniGOZUXq1yhVdILrQ7zxOxNGw9PXEHL-GPymgBs=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCLoz3DLnpv0IJSqlT6LVokg",
+								"authorChannelId": {
+									"value": "UCLoz3DLnpv0IJSqlT6LVokg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-28T04:52:24Z",
+								"updatedAt": "2021-05-28T04:52:24Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "VOssKluLDpuzbwCWd91qWEXY5bU",
+					"id": "UgxUGRGdaRfHeC7MhKZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "-439KHwIiALmBbM4w-RU10Oxnn8",
+							"id": "UgxUGRGdaRfHeC7MhKZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "ㅋㅋㅋ(배그예전부터해보고싶었어서 샀다가 계속 끔살당해서 결국 환불했던 기억이...)",
+								"textOriginal": "ㅋㅋㅋ(배그예전부터해보고싶었어서 샀다가 계속 끔살당해서 결국 환불했던 기억이...)",
+								"authorDisplayName": "중3의 음악채널ᆞᄏᄏᄏ만 쳐서 구독자228명되기",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngMEjRzz0BjYmUAJD4EPo-U57zYbxAF4w1iI9ZS=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCiOdrS7SbkR4Z02wrJMDhVQ",
+								"authorChannelId": {
+									"value": "UCiOdrS7SbkR4Z02wrJMDhVQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T15:12:10Z",
+								"updatedAt": "2021-05-27T15:12:10Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "Mfh7sbaf8nKcQDWnkKhCo9Mv5Sg",
+					"id": "UgxpyXQ2QXx3633kSoV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "5nvN44XW_MNK9uzSRq5JSmcDdxc",
+							"id": "UgxpyXQ2QXx3633kSoV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "뭔 모배가 있노 ㅋㅋㅋㅋ",
+								"textOriginal": "뭔 모배가 있노 ㅋㅋㅋㅋ",
+								"authorDisplayName": "시우띠",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngniGZq4HvJsxuuc5o23JofkNX69ldji4IpbzWKMg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC8uNF2CQP1_0ErpGGH5JZ9g",
+								"authorChannelId": {
+									"value": "UC8uNF2CQP1_0ErpGGH5JZ9g"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 2,
+								"publishedAt": "2021-05-27T10:45:11Z",
+								"updatedAt": "2021-05-27T10:45:11Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "mgyroFKUsyGVAfI0lJFhS4DLKXg",
+					"id": "Ugy57Y_-w3Uv3dyHw1Z4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "zzm18fobaWWySmQCEJbeoIr52J0",
+							"id": "Ugy57Y_-w3Uv3dyHw1Z4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "이제 개사기 안붙이네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "이제 개사기 안붙이네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "정민",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhwZEp7n5qUc4h28hvDq2W-UO_rvMyeuGRpTA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCDFD4ArPc7ujPIT5nVwsogg",
+								"authorChannelId": {
+									"value": "UCDFD4ArPc7ujPIT5nVwsogg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-28T03:47:07Z",
+								"updatedAt": "2021-05-28T03:47:07Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "nIwAAGs4GBdfFISlfEFMjtBW-tM",
+					"id": "UgzIg2ESQBj3FuQ7_Zx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "QVfMkR98YzO3-vLN-D8Q9AblOo4",
+							"id": "UgzIg2ESQBj3FuQ7_Zx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "배그 사양이 안되서 못하지만ㅠㅠ 진짜 업데이트 잘했다",
+								"textOriginal": "배그 사양이 안되서 못하지만ㅠㅠ 진짜 업데이트 잘했다",
+								"authorDisplayName": "이예준",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnii2yO2FVky1_g_Dedef-Ddyj9TD2BDOvdE=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCd5CLvt_rFOYo8eYvD8HLlg",
+								"authorChannelId": {
+									"value": "UCd5CLvt_rFOYo8eYvD8HLlg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:25:20Z",
+								"updatedAt": "2021-05-27T14:25:20Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "FX8xJjPqeje6dfjI_qtsQfb-x8Q",
+					"id": "UgyFVOWGpqQoexOBaCx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "_rEP-gn5zAcvKncT2vHHkLxadTo",
+							"id": "UgyFVOWGpqQoexOBaCx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "펍지는 일 잘한다,, 옆동네 시계는 일 개못하는데,,…,..,……,,.,.,.,.,.,.,.,.,.,.,.,.,.아,,ㅋㅋ",
+								"textOriginal": "펍지는 일 잘한다,, 옆동네 시계는 일 개못하는데,,…,..,……,,.,.,.,.,.,.,.,.,.,.,.,.,.아,,ㅋㅋ",
+								"authorDisplayName": "지민",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh47inDJayjYzLDzwJjyf7LRSUdZBw182p0jIfOQQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCP1GENRO69-5LgIrUGiUo2A",
+								"authorChannelId": {
+									"value": "UCP1GENRO69-5LgIrUGiUo2A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T14:15:53Z",
+								"updatedAt": "2021-05-27T14:15:53Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "K9VOshAnFI43V008QsHsa8afYV0",
+					"id": "UgyfNavWEydnlaFmMPV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "DmVvXBz6yKXbwqSMKAlty1fD6ys",
+							"id": "UgyfNavWEydnlaFmMPV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m26s\">3:26</a><br>능풀왈 :  사장놈 니가 죽였잖아<br><br><br>늘풍님.. 괜찮아요..??",
+								"textOriginal": "3:26\n능풀왈 :  사장놈 니가 죽였잖아\n\n\n늘풍님.. 괜찮아요..??",
+								"authorDisplayName": "하늘지옥skybluehell",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/16Z0THkbEGEAiqJl53PnSc1v_-cCuYr3tFTBRohqNkQAcjuMDz6V1SWq6mquvgQTkGGwOYhT=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCRirUAf-WMI4Sp_2guJzvug",
+								"authorChannelId": {
+									"value": "UCRirUAf-WMI4Sp_2guJzvug"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 2,
+								"publishedAt": "2021-05-27T11:00:27Z",
+								"updatedAt": "2021-05-27T11:00:27Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "-gDZPG3sn0nVgcBbXfcgNjuLp0k",
+					"id": "Ugy3BuDV614due5IEo54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "jUplLYSsdtu1OG1BdrdKr4faf7w",
+							"id": "Ugy3BuDV614due5IEo54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=2m27s\">2:27</a> 블루님이 더 양아치 같은 크흠...",
+								"textOriginal": "2:27 블루님이 더 양아치 같은 크흠...",
+								"authorDisplayName": "블록스의게임세상",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhL1ojZOtzzZsML1qOWIc7Vo-8AQ8Lsk3iyxSg_=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCDXckqHGscxT7BrAtG0mSGA",
+								"authorChannelId": {
+									"value": "UCDXckqHGscxT7BrAtG0mSGA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-28T00:39:43Z",
+								"updatedAt": "2021-05-28T00:39:43Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "NYMDgMOcpnmbkOlhsmHvAhO__e4",
+					"id": "Ugw393IUtEgpGaRxDcF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "oEF7obqLPvvJ90yBLiAnpabSnns",
+							"id": "Ugw393IUtEgpGaRxDcF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "인트로 화면 약간 2개 보이는거 추어규ㅠㅠㅠㅠ",
+								"textOriginal": "인트로 화면 약간 2개 보이는거 추어규ㅠㅠㅠㅠ",
+								"authorDisplayName": "3RE_ 0",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh4s4zvLfIav_XG14nATHnRaiP1tJCl4BEiiT7bGQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCv6dfNkTYegt_ytNXC3lsRw",
+								"authorChannelId": {
+									"value": "UCv6dfNkTYegt_ytNXC3lsRw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 41,
+								"publishedAt": "2021-05-27T10:12:50Z",
+								"updatedAt": "2021-05-27T10:12:50Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "VJuONNvhpXUW_Bn7dMNyGmS31nY",
+					"id": "Ugze2LrMTk8MZkeyQzh4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "FL9rvmiLykbyrB_Qc28oXYi6_dY",
+							"id": "Ugze2LrMTk8MZkeyQzh4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "모베와 컴베가 상부상조 하는 스톼일ㅋㅋ",
+								"textOriginal": "모베와 컴베가 상부상조 하는 스톼일ㅋㅋ",
+								"authorDisplayName": "young jin Kim",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh8sbA3gYo7VzDNSB8TUSlqf7gMFXM2pf2OjpoFTw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC9b6Kj38zTWjIIdvs-BxNKw",
+								"authorChannelId": {
+									"value": "UC9b6Kj38zTWjIIdvs-BxNKw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T10:41:23Z",
+								"updatedAt": "2021-05-27T10:41:23Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "DBFs-wwNnV1-cnfaBJartPxXsL8",
+					"id": "UgyzLuHLA-4tPdjTCnV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "cd2Qe08jk8LZqhpX_FNAwk9T8e8",
+							"id": "UgyzLuHLA-4tPdjTCnV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "다음 방송은 후라이팬 피구가 아니라 축구 대결 각인가",
+								"textOriginal": "다음 방송은 후라이팬 피구가 아니라 축구 대결 각인가",
+								"authorDisplayName": "파랑",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjrznT69cv9GQX4hfAsy286mbd154YU43IQofhdTqc=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCtDGhqffqeIItKoLIfpd5Nw",
+								"authorChannelId": {
+									"value": "UCtDGhqffqeIItKoLIfpd5Nw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T10:58:23Z",
+								"updatedAt": "2021-05-27T10:58:31Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "E2wAt9TfCXQ5hML4HydNTFBmVZM",
+					"id": "UgxWmPmgc26JczOnNRV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "eBwralNziTpvdP8B7LSRtqBLL8k",
+							"id": "UgxWmPmgc26JczOnNRV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ저거 차 날라가는 버그는 뭐지 처음 봤네요",
+								"textOriginal": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ저거 차 날라가는 버그는 뭐지 처음 봤네요",
+								"authorDisplayName": "바나나콜라 주식tv",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhgheegwV0WibROxxyqW44W8SwM5H6Vs_oLQ82W=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC5IOUEmwDWMESUDHsYY_-XA",
+								"authorChannelId": {
+									"value": "UC5IOUEmwDWMESUDHsYY_-XA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T11:09:32Z",
+								"updatedAt": "2021-05-27T11:09:32Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "XGuRfYPWYowV7X2XLMQKft2rX4g",
+					"id": "UgyMXwkjfCuuV0ufBL14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "nzcCqrLLMzqCs3GwX5zTfe4dSEw",
+							"id": "UgyMXwkjfCuuV0ufBL14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "아ㅋㅋㅋ진짜 축구공이 이젠 불쌍해질것 같네ㅋㅋㅋ<br>블루형 후해ㅋㅋㅋ",
+								"textOriginal": "아ㅋㅋㅋ진짜 축구공이 이젠 불쌍해질것 같네ㅋㅋㅋ\n블루형 후해ㅋㅋㅋ",
+								"authorDisplayName": "안녕하세요",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjgepHHZx0Sjabw8Umv8lye_6YvYIPEVug7hQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCUEQ_v3NIxsyjEuhnUhVs8A",
+								"authorChannelId": {
+									"value": "UCUEQ_v3NIxsyjEuhnUhVs8A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T10:54:34Z",
+								"updatedAt": "2021-05-27T10:54:49Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "U1c3McbjhngAX_LtQgiadWOIOIg",
+					"id": "UgxTC5nw9ZfCtYrwxDR4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "oAlUzkwPDCvlI40YTo7nCe2v0hk",
+							"id": "UgxTC5nw9ZfCtYrwxDR4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "왜 가만히 있는 미라마를 건드려 뿌얘졌어 ..",
+								"textOriginal": "왜 가만히 있는 미라마를 건드려 뿌얘졌어 ..",
+								"authorDisplayName": "킴민탱",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjY3dyhdJFrXh2hd8nXNymVAxDNWwdB2pd9PQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCGwQuvvn-BvfEvb-MjqAR4Q",
+								"authorChannelId": {
+									"value": "UCGwQuvvn-BvfEvb-MjqAR4Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T15:05:51Z",
+								"updatedAt": "2021-05-27T15:05:51Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "y8N08Np9TqjOG6xIHrH4dKGD1_s",
+					"id": "UgwcHBCrnXo0YtgzGXh4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "2ZhXQd-JqQXdMVTJf74uj88-ocU",
+							"id": "UgwcHBCrnXo0YtgzGXh4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "레전드 업뎃모음이다 없데이트인 카트와는 다르구나...",
+								"textOriginal": "레전드 업뎃모음이다 없데이트인 카트와는 다르구나...",
+								"authorDisplayName": "efra waf",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnibDYmxI_HIRfQtrreLGAJSJCMr-wXDQf2fLg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCpYe1F79YOUgCjkYFFQnaxw",
+								"authorChannelId": {
+									"value": "UCpYe1F79YOUgCjkYFFQnaxw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:42:57Z",
+								"updatedAt": "2021-05-27T13:42:57Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "Qnfuh-umgDfi668X0-4VIAQn9jI",
+					"id": "UgyCcAhYo10lQamWy-J4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "F6QxCgnNpeKltyfeGs8I4qUb-8E",
+							"id": "UgyCcAhYo10lQamWy-J4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "역시 저격은 대물저격총이 최고라고 생각합니다<br>이왕이면 쎈게 좋아서요 ^^",
+								"textOriginal": "역시 저격은 대물저격총이 최고라고 생각합니다\n이왕이면 쎈게 좋아서요 ^^",
+								"authorDisplayName": "닌자 세키로",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjLWLbI35NFxtwsZ3dOcnC3HaA_SU8JmhsYUoto=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCKhJC_fTNwvFCcBdW5m0C2g",
+								"authorChannelId": {
+									"value": "UCKhJC_fTNwvFCcBdW5m0C2g"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T18:11:03Z",
+								"updatedAt": "2021-05-27T18:11:03Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "yY0VKb6JIs8lVziyXbOZRitaQDs",
+					"id": "Ugx2tHEO-NRxuoInat54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "VYIySjgCmu0VPD7z-zxmqWDzBf4",
+							"id": "Ugx2tHEO-NRxuoInat54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "차 안에서 C4들고움직이는거 보고 현웃 터짐 ㅋㅋㅋㅋ",
+								"textOriginal": "차 안에서 C4들고움직이는거 보고 현웃 터짐 ㅋㅋㅋㅋ",
+								"authorDisplayName": "윤영조",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjId2sXczCtMKoFHC-MboPeOESQA6JtFyHQLQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC8wwyqWzDOQTWhv2wx-ZgOw",
+								"authorChannelId": {
+									"value": "UC8wwyqWzDOQTWhv2wx-ZgOw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:18:48Z",
+								"updatedAt": "2021-05-27T12:18:48Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "23dWpHNouHHXD52PGsvUWn_yv1o",
+					"id": "UgxP5OIcHhga-lC9NPp4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "VV95OvkqzRclRYKBudsxcnz2xiY",
+							"id": "UgxP5OIcHhga-lC9NPp4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "스킨 시스템이 모배랑 너무 비슷해지는 듯...",
+								"textOriginal": "스킨 시스템이 모배랑 너무 비슷해지는 듯...",
+								"authorDisplayName": "이상한사람",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhpNsAX1QLMno7bPznj7XLJNY6bElhalvicRNRh1A=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC_AF_Addu7fZhEm8mYAO1TQ",
+								"authorChannelId": {
+									"value": "UC_AF_Addu7fZhEm8mYAO1TQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T23:53:58Z",
+								"updatedAt": "2021-05-27T23:53:58Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "sH0PIHMHPWEOmv3AKV-c6hL9XkU",
+					"id": "UgzH541m7IqyJ7mVIW54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "jRz25GzRzitONzkCkOQeSHIjlyI",
+							"id": "UgzH541m7IqyJ7mVIW54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "옛날 사녹 할수있는 아케이드 같은거 나오면 좋을듯..y자부캠 너무 그립다",
+								"textOriginal": "옛날 사녹 할수있는 아케이드 같은거 나오면 좋을듯..y자부캠 너무 그립다",
+								"authorDisplayName": "김현민",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhnS27RGmiBI5DSfeBT1j7bXszfk52hbnsc5g=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCIRss55mKwHNhwngQOdrZaQ",
+								"authorChannelId": {
+									"value": "UCIRss55mKwHNhwngQOdrZaQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T14:33:07Z",
+								"updatedAt": "2021-05-27T14:33:07Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "QoW85jF8GF-V3I7nsYB2oF6qdDg",
+					"id": "UgyVAJIrm2CmGrypZXl4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "JvWsHW2GBvzvOmR_1ksljJB_kcE",
+							"id": "UgyVAJIrm2CmGrypZXl4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "연다님 우왕푸왕 하면 좋겠다. 더빙 잘하시네.",
+								"textOriginal": "연다님 우왕푸왕 하면 좋겠다. 더빙 잘하시네.",
+								"authorDisplayName": "카룬",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhDl5Ep26rYmv3R_NMNtrDAMKyU-zmBfCUt3XKZ7w=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCkPsQySKf9A8-CkkbKVQIEQ",
+								"authorChannelId": {
+									"value": "UCkPsQySKf9A8-CkkbKVQIEQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:37:10Z",
+								"updatedAt": "2021-05-27T13:37:10Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "7bJ4YB8uRqSEpXsbySaQIAjWSTU",
+					"id": "Ugz0cxi4P5W2dd5bIdl4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "fgTAH3KiBmYiWtMMcl4hmFK8yVU",
+							"id": "Ugz0cxi4P5W2dd5bIdl4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "편집잨ㅋㅋ 편집하다가 힘들어서 게임하다가 사장쉐기가 죽여서 개빡치겠닼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "편집잨ㅋㅋ 편집하다가 힘들어서 게임하다가 사장쉐기가 죽여서 개빡치겠닼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "김주연",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhu81UUaM8vA6-4CnEMc0To02gM0TbL0bLtig=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCYSbM9W0hux1mavPJXOWB-Q",
+								"authorChannelId": {
+									"value": "UCYSbM9W0hux1mavPJXOWB-Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:15:30Z",
+								"updatedAt": "2021-05-27T12:15:30Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "y2sJoueiOJCpcUBqRF7x1Av98k0",
+					"id": "UgxIixUtyez9DP4DYRZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "BMeYMrsn81jQVDsApGZSZ11gURs",
+							"id": "UgxIixUtyez9DP4DYRZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "다음영상:배그에서 피파하기엌ㅋㅋㅋㅋ",
+								"textOriginal": "다음영상:배그에서 피파하기엌ㅋㅋㅋㅋ",
+								"authorDisplayName": "조선의백성",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/s7I5a7Sv2KTunZCjsvEzoWwXhPQG3PIbLxroUSVfJu3jsB1abX-g3RQ7LQFfLNXSFnGb3-TPKg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCFM-rzJ6ZZxCg_P2hQ3WOWw",
+								"authorChannelId": {
+									"value": "UCFM-rzJ6ZZxCg_P2hQ3WOWw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 85,
+								"publishedAt": "2021-05-27T10:11:33Z",
+								"updatedAt": "2021-05-27T10:14:53Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 3,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "UtqxHzvT3hBf7oqYcWNQEc9nWJk",
+								"id": "UgxIixUtyez9DP4DYRZ4AaABAg.9NqLxhmjotl9Nqgp6mETXz",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "엌ㅋㅋㅋㅋㅋㅋ",
+									"textOriginal": "엌ㅋㅋㅋㅋㅋㅋ",
+									"parentId": "UgxIixUtyez9DP4DYRZ4AaABAg",
+									"authorDisplayName": "엘EL",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhDCA3U3nL27tXOZ_mNQv2f7lS717Z3tAo95LRr_Q=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCEQ3nm4GKVA1_WDRApGdX2A",
+									"authorChannelId": {
+										"value": "UCEQ3nm4GKVA1_WDRApGdX2A"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T13:22:37Z",
+									"updatedAt": "2021-05-27T13:22:37Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "hKpH6gIeGZwLp_SII72gHUMBqP4",
+								"id": "UgxIixUtyez9DP4DYRZ4AaABAg.9NqLxhmjotl9NqNlHqP4hg",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇㅋㅋ",
+									"textOriginal": "ㄹㅇㅋㅋ",
+									"parentId": "UgxIixUtyez9DP4DYRZ4AaABAg",
+									"authorDisplayName": "예온",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjFZVZFSgyt4sULmfCcDvKLJ-ZTPocTw23ESKOpXw=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCwdrfnByTsWGPK5XM0Qtjbw",
+									"authorChannelId": {
+										"value": "UCwdrfnByTsWGPK5XM0Qtjbw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:27:20Z",
+									"updatedAt": "2021-05-27T10:27:20Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "ZoPvCZHZUjowlj6JXeh5_AQaGXo",
+								"id": "UgxIixUtyez9DP4DYRZ4AaABAg.9NqLxhmjotl9NqMs_BpEWN",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "각",
+									"textOriginal": "각",
+									"parentId": "UgxIixUtyez9DP4DYRZ4AaABAg",
+									"authorDisplayName": "문지호",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng4JiCM1jqXX3kSbkYMbAyiW_6ioKVLZWSV-Q=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCtk8w8_WV1W8l2rxm4D0Qkg",
+									"authorChannelId": {
+										"value": "UCtk8w8_WV1W8l2rxm4D0Qkg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:19:35Z",
+									"updatedAt": "2021-05-27T10:19:35Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "kYvEZO4Cxctu6cZwE52V5IMddb4",
+					"id": "Ugzq1Vxv52fPnJo0bz14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "OHlIm0lpXBICdYlxRMvGkWpcbm0",
+							"id": "Ugzq1Vxv52fPnJo0bz14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "클립 모드 뭥미 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "클립 모드 뭥미 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "1125임윤종",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng4NsObgdM5GN-6Fp4V-aTR4hJYZiS-_KDBOA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCvPDmWwIGsfAzMepQDuj38w",
+								"authorChannelId": {
+									"value": "UCvPDmWwIGsfAzMepQDuj38w"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-28T01:44:20Z",
+								"updatedAt": "2021-05-28T01:44:20Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "1gBqcC-UhSWDVUMMIYwTakOnnfY",
+					"id": "Ugwsn3BiBb9XLgfppe14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "i4zAVd0S3_Z6qDC-EOZxhQrNYRU",
+							"id": "Ugwsn3BiBb9XLgfppe14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "차가 한방에 까지는것도 아닌데 꼴랑 5발 똥총 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 필드드랍해도 안쓸듯",
+								"textOriginal": "차가 한방에 까지는것도 아닌데 꼴랑 5발 똥총 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 필드드랍해도 안쓸듯",
+								"authorDisplayName": "알림설정",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhnSYxjgesUegknL-pwE-XfTeC2pY0HyGPAMkEp=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCsgwhzSwwEfjsrNy5ee345Q",
+								"authorChannelId": {
+									"value": "UCsgwhzSwwEfjsrNy5ee345Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-28T00:17:50Z",
+								"updatedAt": "2021-05-28T00:17:50Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "ZRCF_3pHBpt8G0uOwNE1JIYE6Nk",
+					"id": "Ugw5V375tUS6Q29eaPB4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "f6UmcxRLyl1JcUoz_EXFXnikQNQ",
+							"id": "Ugw5V375tUS6Q29eaPB4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "아님 링스탄을 에땁탄으로 내는거도 나쁘지 않을듯",
+								"textOriginal": "아님 링스탄을 에땁탄으로 내는거도 나쁘지 않을듯",
+								"authorDisplayName": "라비망고",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniIGutBmfvEknnR9Qmb6A8AXsH_O_faQtjABAEVrQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCpgnJf62WxPo7LzRHrqojuw",
+								"authorChannelId": {
+									"value": "UCpgnJf62WxPo7LzRHrqojuw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T14:01:12Z",
+								"updatedAt": "2021-05-27T14:01:12Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "KI2dEhLkhFChMvUcA5D6JEV5tNQ",
+					"id": "UgwpCU6lElV4eE4QU9h4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "qAtgOt719WwW9l7y-FKYtYIlUBU",
+							"id": "UgwpCU6lElV4eE4QU9h4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "역시 게임은 배틀그라운드!!! 나도 링스 빨리 쓰고 싶다!!!",
+								"textOriginal": "역시 게임은 배틀그라운드!!! 나도 링스 빨리 쓰고 싶다!!!",
+								"authorDisplayName": "한혜림",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniFj8kZxDiYUkBAEmUwqTc6phszvZ0dZeLLPw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC16tPaHhahIbnHeA0-xHKKQ",
+								"authorChannelId": {
+									"value": "UC16tPaHhahIbnHeA0-xHKKQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T23:32:32Z",
+								"updatedAt": "2021-05-27T23:32:32Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "zbJzerX7Z51EkZJBmvdTDKlDOX4",
+					"id": "UgyuBXLTcfvBE5MNQ_l4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "dXjlh6JCrprOkIOXkP-cysy7IsA",
+							"id": "UgyuBXLTcfvBE5MNQ_l4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "???:&quot; ㅘ! AMW 보다 쎈데! &quot; 해명 하시죠.",
+								"textOriginal": "???:\" ㅘ! AMW 보다 쎈데! \" 해명 하시죠.",
+								"authorDisplayName": "초 코 야 ت",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni5YjcY0qcA8Mlp_2XDy_P--gmrVF5XBi0UzCo2=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCAX-vZrX1bn0_z79wTA8kaQ",
+								"authorChannelId": {
+									"value": "UCAX-vZrX1bn0_z79wTA8kaQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:57:32Z",
+								"updatedAt": "2021-05-27T11:57:32Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "DzDZtO8t0SrzWK4BLRmWbC4Uwag",
+					"id": "UgwRj2BmWmLA488a0gV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "ODxeb6HV5yzyeVJyyJnKic6-iLQ",
+							"id": "UgwRj2BmWmLA488a0gV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m13s\">3:13</a> 내지금 4번타자 김블루 출전합니다. 1구 볼 2구 볼 3구 넘어갈거같에요  담장담장담장 넘어갑니다!!!!! 그공에누가맞았어요 그건바로 편집자씨.",
+								"textOriginal": "3:13 내지금 4번타자 김블루 출전합니다. 1구 볼 2구 볼 3구 넘어갈거같에요  담장담장담장 넘어갑니다!!!!! 그공에누가맞았어요 그건바로 편집자씨.",
+								"authorDisplayName": "Myung Keun Lee",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjoM883oApP_23XK3NZFoVgOrde_Iif5qXE8w=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCToIu9sWY4kgUHagZeYyaYg",
+								"authorChannelId": {
+									"value": "UCToIu9sWY4kgUHagZeYyaYg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T10:44:44Z",
+								"updatedAt": "2021-05-27T10:44:44Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "XhPkXCfW0Jpn7ZX2RMAAQGUzVto",
+					"id": "UgysylI4vJq3Fnlwisp4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "VMgWVGU-aRi8LUikOr3qJz1BZN0",
+							"id": "UgysylI4vJq3Fnlwisp4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "ㅋㅋㅋㅋ편집 개웃기네",
+								"textOriginal": "ㅋㅋㅋㅋ편집 개웃기네",
+								"authorDisplayName": "페르딘",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjVxD93gojil8Jfm8nx3k1YM0nc6ZmXcnfqJg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCvRwaIO2HHZ1oyWKC9rxExQ",
+								"authorChannelId": {
+									"value": "UCvRwaIO2HHZ1oyWKC9rxExQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T16:01:05Z",
+								"updatedAt": "2021-05-27T16:01:05Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "LouZYAKcEP_z6_YlyokyEaAwOC8",
+					"id": "UgzPIo6qijb_AY_v59t4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "HmzMD-ClLIEK8g9adFxVXyE9o44",
+							"id": "UgzPIo6qijb_AY_v59t4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "이제 링스도 mg3처럼 묻히는 일만 남았다....",
+								"textOriginal": "이제 링스도 mg3처럼 묻히는 일만 남았다....",
+								"authorDisplayName": "이은성",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjdI8mjidDpgV3-kXrirhTUU50Lg_6vs4_eIQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCFEjTr9cIBz53PsYjDxQxIA",
+								"authorChannelId": {
+									"value": "UCFEjTr9cIBz53PsYjDxQxIA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T10:34:24Z",
+								"updatedAt": "2021-05-27T10:34:24Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "74TBm8gtUdlvQwb1XX_T8J7fkaQ",
+					"id": "Ugx0TL0tRu5Kxy02cyF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "PLSMbGxqSo2s9vi5vfGtTvDSiU0",
+							"id": "Ugx0TL0tRu5Kxy02cyF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "언제부터 배그가 축구겜이 된거지.....",
+								"textOriginal": "언제부터 배그가 축구겜이 된거지.....",
+								"authorDisplayName": "Persona gaming",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/E14RsSg2_VB2PVOfX58jbzCaJfUNN3zNDbVnXVHk7kfDKS2eBPJm5kaQbqT_uOmFqH0xobTRdgg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCvOuBAam9EdBdeSavI0P28Q",
+								"authorChannelId": {
+									"value": "UCvOuBAam9EdBdeSavI0P28Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 8,
+								"publishedAt": "2021-05-27T10:13:17Z",
+								"updatedAt": "2021-05-27T10:13:17Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "lxogHEwVocglfbH0ZQWPiAk5eaA",
+					"id": "UgyoLisrJvL-HZ1Pmtx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "V8znHRl9wnwiay44piKZTrlBB00",
+							"id": "UgyoLisrJvL-HZ1Pmtx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m21s\">3:21</a> 10초도 안됐어ㄲㅋㅋ",
+								"textOriginal": "3:21 10초도 안됐어ㄲㅋㅋ",
+								"authorDisplayName": "31 이종원",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjdyGPFg9cUwq9UShpNnkA1QRbfIOEyARx57vO-=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCMJm-5vZfQya9rsZLavePtQ",
+								"authorChannelId": {
+									"value": "UCMJm-5vZfQya9rsZLavePtQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T23:22:59Z",
+								"updatedAt": "2021-05-27T23:22:59Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "jhfC8cu9iNPZ0_FgXVk66aQfYbE",
+					"id": "UgyxEy33HvJQ8glak8F4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "7Qj1VrjQ9z3jtPHLra760HJUqyQ",
+							"id": "UgyxEy33HvJQ8glak8F4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "클레식 fps는 왜 항상 아케이드로 변하는가ㅠ",
+								"textOriginal": "클레식 fps는 왜 항상 아케이드로 변하는가ㅠ",
+								"authorDisplayName": "최정빈",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh8jjPgzDRNsfmgjy75w0EGM3FzBTsX5TzpJBDT=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC64YQfZOZV18oraqNn5t-WA",
+								"authorChannelId": {
+									"value": "UC64YQfZOZV18oraqNn5t-WA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:47:53Z",
+								"updatedAt": "2021-05-27T14:47:53Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "1J3bG7KTMZHJjQlUVAkE-40KgAQ",
+					"id": "Ugy8oHHTYHbB4mgaZUt4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "AAh6lspLDZXyGLyzHF6J6Fz6Z00",
+							"id": "Ugy8oHHTYHbB4mgaZUt4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "Lynx AMR 저거 Mk14소리남 ㅋㅋㅋㅋ",
+								"textOriginal": "Lynx AMR 저거 Mk14소리남 ㅋㅋㅋㅋ",
+								"authorDisplayName": "백승준",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjaOhpHQb30wjE1M88spZjjLiwYL5ncAeWu=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC3KgNjkvuSg9YEMGXFYB-uA",
+								"authorChannelId": {
+									"value": "UC3KgNjkvuSg9YEMGXFYB-uA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T11:07:45Z",
+								"updatedAt": "2021-05-27T11:07:45Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "3e5SdAcJ0sriUWQViR3HvOVWEgw",
+					"id": "UgwoF-7xpu-3AQ7VfZZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "gkRH9GO6PWYroRa2toVLATzqf_c",
+							"id": "UgwoF-7xpu-3AQ7VfZZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "총 업뎃 보니까 모배랑 똑같다 킬로그 시체 똑같다",
+								"textOriginal": "총 업뎃 보니까 모배랑 똑같다 킬로그 시체 똑같다",
+								"authorDisplayName": "TV임님",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhRdRamBf9-HDzWc__YnqjjPOedWDLCzx8sLz34=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCShZAniZXeJxOJnudN00X2Q",
+								"authorChannelId": {
+									"value": "UCShZAniZXeJxOJnudN00X2Q"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:51:31Z",
+								"updatedAt": "2021-05-27T13:51:31Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "rETHSeGpuYWB3XXH1V_VhJomF4w",
+					"id": "Ugzp2eeNaRZAxniX8hV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "tmLt59s4sSt5XHk5Bc84lg_dBLY",
+							"id": "Ugzp2eeNaRZAxniX8hV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "블루님 존잘(?)<br>큭 내 양심이...",
+								"textOriginal": "블루님 존잘(?)\n큭 내 양심이...",
+								"authorDisplayName": "바이하이",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/UDzxuyzPbXH8J5-UYmiXFzAYw0k2fUzS5tMYS3i8pqgonSpDKDlRkRnAV8UJm5j3NoxqJTAg_g=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCtbxxPL6D7zg5bHGWhCNnCg",
+								"authorChannelId": {
+									"value": "UCtbxxPL6D7zg5bHGWhCNnCg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:53:14Z",
+								"updatedAt": "2021-05-27T13:53:14Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "ikf2KCznZ29d_N7aLbRWXpzF7bY",
+					"id": "UgzOZZM3RkXKaxOiN2N4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "ySeDGEk6_LGzQBPntgslVR3u9Ws",
+							"id": "UgzOZZM3RkXKaxOiN2N4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=2m51s\">2:51</a> 니 뒤에 김블루 있는건 생각 안하니ㅋㅋㄱㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "2:51 니 뒤에 김블루 있는건 생각 안하니ㅋㅋㄱㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "가나다라마",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwninywKEE0bLQk66TSzSrSLs08PFlzZABtS45JqDYeI=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCZ6YBxa5tvkgZgG3pxO3t5A",
+								"authorChannelId": {
+									"value": "UCZ6YBxa5tvkgZgG3pxO3t5A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T15:09:41Z",
+								"updatedAt": "2021-05-27T15:09:41Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "d0BDc46Iwzw6Q-mvJTYkOO_tOes",
+					"id": "Ugx09itO-JKqf6SGRc54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "zyx4ZgvgSkxRDuKKf7cPca9cW88",
+							"id": "Ugx09itO-JKqf6SGRc54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "내소원이 이루워젔다 대전차소총 친구랑 나오면 좋겠다고 했는데 나왔넼ㄲㅋ",
+								"textOriginal": "내소원이 이루워젔다 대전차소총 친구랑 나오면 좋겠다고 했는데 나왔넼ㄲㅋ",
+								"authorDisplayName": "망고",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjLa7PykWER-blpXoGMptjBDuNOuVT2w0nadeEvcg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCjbbJ3AEhXYGnE0s6UVVLBQ",
+								"authorChannelId": {
+									"value": "UCjbbJ3AEhXYGnE0s6UVVLBQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:10:52Z",
+								"updatedAt": "2021-05-27T12:10:52Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "TTsPGEPDvHqATuar9VHahqycEog",
+					"id": "Ugwswq2pHlZNZOISjQ14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "19uowiieEx8_DBmjCDhu30chdk4",
+							"id": "Ugwswq2pHlZNZOISjQ14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "결국 블루님이 2배율 엄지그랩 안쓰는거 보면 역시 저번 영상은 약팔이였던것이다",
+								"textOriginal": "결국 블루님이 2배율 엄지그랩 안쓰는거 보면 역시 저번 영상은 약팔이였던것이다",
+								"authorDisplayName": "YouTube 코렌드",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNFFGzInqffZDHtBzDUfr9PKO3OhXEwWHHBPc1Ig=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCT1fG2H5HBmdcyApOkZbEAw",
+								"authorChannelId": {
+									"value": "UCT1fG2H5HBmdcyApOkZbEAw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:07:01Z",
+								"updatedAt": "2021-05-27T12:07:01Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "PjC7JGU-svO-B2QuTJQ8jZpOfX8",
+					"id": "UgxgDKu33VG1lRqajux4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "gbT6tSmqOO9zsNkU38SMhZ8wm88",
+							"id": "UgxgDKu33VG1lRqajux4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "50구경을 쓰는데 몸한방이 안나네 ㅋㅋㅋ",
+								"textOriginal": "50구경을 쓰는데 몸한방이 안나네 ㅋㅋㅋ",
+								"authorDisplayName": "방구석빵테옹",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniO4aGPOQC3RfMDD_Yy7MTmWAMhhQ6bAZTD4hN3UQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UClFD1J-s2-9k_7VM1i09GQQ",
+								"authorChannelId": {
+									"value": "UClFD1J-s2-9k_7VM1i09GQQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-28T01:53:54Z",
+								"updatedAt": "2021-05-28T01:53:54Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "nTEAZPNU-gODVC2efhKZQUL_414",
+					"id": "Ugzb-vBeQ0Cj0o5gcsJ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "zc5ZdZZILoqtoMKFblEH_3XFoQc",
+							"id": "Ugzb-vBeQ0Cj0o5gcsJ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "총 업그래이드는 어기에서 미리 본거 같다ㅋㅋ",
+								"textOriginal": "총 업그래이드는 어기에서 미리 본거 같다ㅋㅋ",
+								"authorDisplayName": "김우영",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnisET9QkV62GBtSPcEwjjTuxm7bOuraKZuNOg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCLhplYM2l5MHZDaznn4sWrA",
+								"authorChannelId": {
+									"value": "UCLhplYM2l5MHZDaznn4sWrA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:27:14Z",
+								"updatedAt": "2021-05-27T12:27:14Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "bAZm6Od2KQxujkV9BGzltQEgXKk",
+					"id": "Ugy1VSBCV5hLDj4Ntap4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "9Cu-wITQL3LqWin77KZXDGAM64k",
+							"id": "Ugy1VSBCV5hLDj4Ntap4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=7m14s\">7:14</a> 거의 주키니님 급 (진짜 주키니님이면 ㄹㅈㄷ인데) ㅋㅋㅋㅋ<br>???: 화성 갈끄니까~",
+								"textOriginal": "7:14 거의 주키니님 급 (진짜 주키니님이면 ㄹㅈㄷ인데) ㅋㅋㅋㅋ\n???: 화성 갈끄니까~",
+								"authorDisplayName": "BloodI I",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnijBH83URDYV30syG7FpCLNznvrbE2WFCqiRls8=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCbxX6lRDYGRdS1LVwgaNfNQ",
+								"authorChannelId": {
+									"value": "UCbxX6lRDYGRdS1LVwgaNfNQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T13:38:22Z",
+								"updatedAt": "2021-05-27T13:40:14Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "xdUmhfNn2vazGhVDiinfjT84VHQ",
+					"id": "UgwgISQgQbhpsARuSI54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "NTCGMC3QHDATTkVldVbUyMHm2kY",
+							"id": "UgwgISQgQbhpsARuSI54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "5발에 비해 파괴력이 넘 아쉬움<br>차라리 에땁이 나음",
+								"textOriginal": "5발에 비해 파괴력이 넘 아쉬움\n차라리 에땁이 나음",
+								"authorDisplayName": "전학생",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnim40FSEMMW_2TwVVoW0F6aOsxYhnyXKnGKL-1d=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCkGs7D9wby55MEbj27t_fnA",
+								"authorChannelId": {
+									"value": "UCkGs7D9wby55MEbj27t_fnA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:10:31Z",
+								"updatedAt": "2021-05-27T12:10:31Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "oSl-yxpbgkw0Y_sGIh871kvP9KA",
+					"id": "UgyUa4Gm8jW3gd41CcF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "uc-HP5KNqNWedAnjnj7Nn9whYrI",
+							"id": "UgyUa4Gm8jW3gd41CcF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "5발만 줄거면 몸통 한방에 다시아까지 한방 해줘야지",
+								"textOriginal": "5발만 줄거면 몸통 한방에 다시아까지 한방 해줘야지",
+								"authorDisplayName": "시바견",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjpgl6ArTDz-JLhEmCeNk9b7RgjI2rZb-fG85bu1A=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCXgznFS5kS2JCIIf9DQGuCA",
+								"authorChannelId": {
+									"value": "UCXgznFS5kS2JCIIf9DQGuCA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:23:51Z",
+								"updatedAt": "2021-05-27T13:23:59Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "fUUHOKGn_HFJGuPwqqKPH51AH7Q",
+					"id": "Ugyd0rHxYmufL86W-3p4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "hTqjPhXHm7mtcP53uO2aX5_Hou8",
+							"id": "Ugyd0rHxYmufL86W-3p4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "링스 딱 7발정도면 적당할것같은데(개인적인 의견)",
+								"textOriginal": "링스 딱 7발정도면 적당할것같은데(개인적인 의견)",
+								"authorDisplayName": "시즈상",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwninUbaqEMrWwxJBJwspg44D8k6KP_RHNisL750m=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC_yILWzEjinUgUR9tro277g",
+								"authorChannelId": {
+									"value": "UC_yILWzEjinUgUR9tro277g"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:15:05Z",
+								"updatedAt": "2021-05-27T13:15:05Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "IxQ4KT6KBT6zr_1iCnObwJMU_aY",
+					"id": "UgzmFOTf7zbn13W8vzJ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "WZ6XCOANikSNghYF9yIa7ofqKRc",
+							"id": "UgzmFOTf7zbn13W8vzJ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "이거 거이모배자낰ㅋㅋㅋㅋㄱ",
+								"textOriginal": "이거 거이모배자낰ㅋㅋㅋㅋㄱ",
+								"authorDisplayName": "미니언",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhqiezQZxvhofZOOMkMAuv2q3iI4PYMLG-ddxm=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC38WigWk8Lv_OtML5OFxEmA",
+								"authorChannelId": {
+									"value": "UC38WigWk8Lv_OtML5OFxEmA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-28T06:12:32Z",
+								"updatedAt": "2021-05-28T06:12:32Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "EAREQ0a8NnYIsP7pztZaN52jFrE",
+					"id": "UgxCT9LwQHHTMrddS1h4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "D4xfPkx1P1RUyDIxS9T3JhIw0aw",
+							"id": "UgxCT9LwQHHTMrddS1h4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "미라마 좋으니까 사녹 롤백 안되나..ㅋㅋ",
+								"textOriginal": "미라마 좋으니까 사녹 롤백 안되나..ㅋㅋ",
+								"authorDisplayName": "김여난",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngH94REE3J6KuvXL6dIq6DaGBEkgbFhOKGxtYaD=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC38htB7OuZPlikllNUkOIug",
+								"authorChannelId": {
+									"value": "UC38htB7OuZPlikllNUkOIug"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:21:07Z",
+								"updatedAt": "2021-05-27T11:21:07Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "h0dM9DBFaBiIYtMy34KdqfltMz4",
+					"id": "UgxaZNGz0YiUGr3v-hZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "lTGL1Hse6kSdmrv2GlyaCwxzCaU",
+							"id": "UgxaZNGz0YiUGr3v-hZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "와 업데이트 진짜로 ㄹㅈㄷ 미쳤다 너무 좋아",
+								"textOriginal": "와 업데이트 진짜로 ㄹㅈㄷ 미쳤다 너무 좋아",
+								"authorDisplayName": "김서준",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng67ogY0k8fE-p0FjPf-3lksTsThVrCbqLXkQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCxj77Xu9Its-l-09gSOyh9g",
+								"authorChannelId": {
+									"value": "UCxj77Xu9Its-l-09gSOyh9g"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 34,
+								"publishedAt": "2021-05-27T10:30:22Z",
+								"updatedAt": "2021-05-27T10:30:22Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "GqvqTwJSF_YgnVEpy3C6mekgyvA",
+					"id": "UgyNBgfyZ5HExyC7LS94AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "tSdV92M7K8UMzIEXet9pQxatQ2M",
+							"id": "UgyNBgfyZ5HExyC7LS94AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "소리가 mk14 똑같네 ㅋㅋㅋ",
+								"textOriginal": "소리가 mk14 똑같네 ㅋㅋㅋ",
+								"authorDisplayName": "루모",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUi5eV1AMBlxy0H2w2hsUi5JBDWJDW9luXH9EI=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCmoAboMsREVk4Dqd9ZtG7nA",
+								"authorChannelId": {
+									"value": "UCmoAboMsREVk4Dqd9ZtG7nA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:37:08Z",
+								"updatedAt": "2021-05-27T12:37:08Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "4gy2UhJ7q6Js1EDslFyPKK194rs",
+					"id": "Ugx1GxBJXzkWsPCSs3x4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "gbHSOowQ0hzJC2p7B_c1TxoEJks",
+							"id": "Ugx1GxBJXzkWsPCSs3x4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "링스로 유튭각을 뽑으려는 미래가 예상된다..",
+								"textOriginal": "링스로 유튭각을 뽑으려는 미래가 예상된다..",
+								"authorDisplayName": "candy Ryoo",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni4qVnX5oNN-sa_MOcZRMXfadu5NpbQcJuCu4eX-Q=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCT6Rsr9-6PC6ArDgX4-dwfA",
+								"authorChannelId": {
+									"value": "UCT6Rsr9-6PC6ArDgX4-dwfA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:09:55Z",
+								"updatedAt": "2021-05-27T12:09:55Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "iTLDMO8u7OP99i5RzLshLGRIFQs",
+					"id": "UgwTYZEhxAJtQuaLNZx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "mTa48q7uevN3S3jEOhLlMIXwTKA",
+							"id": "UgwTYZEhxAJtQuaLNZx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "모배로 변한닼ㅋㅋㅋ",
+								"textOriginal": "모배로 변한닼ㅋㅋㅋ",
+								"authorDisplayName": "구독 누르면 시험 100점",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/CqZLKyadzybJ3OMMByPwkzpz_UjeZJ9Q_5v1PQuIcOLphD-vMU5tyWZLX2ef2olAAVk_Ko9NdQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCh5pDLb2XH0ZRzFBgbgYpjg",
+								"authorChannelId": {
+									"value": "UCh5pDLb2XH0ZRzFBgbgYpjg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:18:24Z",
+								"updatedAt": "2021-05-27T11:18:24Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "AjiCLJkMt7LE-LkL97en8VUn3HQ",
+					"id": "UgxzJfIopg9zGLM1dsJ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "e0xAjbJkY_o3xfuBmqjI4AcRnJ8",
+							"id": "UgxzJfIopg9zGLM1dsJ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=0m31s\">0:31</a>불꽃슛말고 독수리슛은 아는데 ㅋㅋ",
+								"textOriginal": "0:31불꽃슛말고 독수리슛은 아는데 ㅋㅋ",
+								"authorDisplayName": "초게임 tv",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniRXCd4hWzVDrpvbx3bRzBIKBbSGA7w_wq2WxIB=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCEKVkco0S3KkJ788SZhTMgg",
+								"authorChannelId": {
+									"value": "UCEKVkco0S3KkJ788SZhTMgg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T10:52:04Z",
+								"updatedAt": "2021-05-27T10:52:04Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "tW_8MvozE2_8zImWHzpcKdpy4vM",
+					"id": "UgycWCxJrQaDTBbwPg94AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "4mxRWcbujKxZzopHvMtPFiRvubc",
+							"id": "UgycWCxJrQaDTBbwPg94AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "역시 저격총 하면 블루킴 블루킴 하면 저격총이지 기다렸다구",
+								"textOriginal": "역시 저격총 하면 블루킴 블루킴 하면 저격총이지 기다렸다구",
+								"authorDisplayName": "엘EL",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhDCA3U3nL27tXOZ_mNQv2f7lS717Z3tAo95LRr_Q=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCEQ3nm4GKVA1_WDRApGdX2A",
+								"authorChannelId": {
+									"value": "UCEQ3nm4GKVA1_WDRApGdX2A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T13:22:28Z",
+								"updatedAt": "2021-05-27T13:22:28Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "XKAZLxXtvNB4NWxVLObfCuemNg0",
+					"id": "Ugzpo84HWdcaWreyVeR4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "HFGIe_wjGBJmqFRKj7ULo6-JS6M",
+							"id": "Ugzpo84HWdcaWreyVeR4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "차 날라 다니는데  개 재밌네 ㅋㅋㅋㅋㅋㅋㅋ<br><br>그치만 모바일에서 하면 렉 개 쩔겠지....",
+								"textOriginal": "차 날라 다니는데  개 재밌네 ㅋㅋㅋㅋㅋㅋㅋ\n\n그치만 모바일에서 하면 렉 개 쩔겠지....",
+								"authorDisplayName": "차민",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhIuJdWWFQ-cW48xPxTgdCkcxDcknC1VZ3t0b2_=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCA28si8oxBhXDcLdc7C_iMQ",
+								"authorChannelId": {
+									"value": "UCA28si8oxBhXDcLdc7C_iMQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T15:01:47Z",
+								"updatedAt": "2021-05-27T15:02:05Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "dChy3kPDgtz9edV84EOGXYr7d_k",
+					"id": "UgwolFShpVvqnqubYcF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "XA91Tg0toQCAWFe2Xnh-xIRpx58",
+							"id": "UgwolFShpVvqnqubYcF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "와 한국맵 나오나? 웅장이 가슴해진다",
+								"textOriginal": "와 한국맵 나오나? 웅장이 가슴해진다",
+								"authorDisplayName": "최성미",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhgQuXyyCHgRbv-pqknCXWPsIXafMCGcx_S1g=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC_Ki7PnT03fx89AZA--M_tg",
+								"authorChannelId": {
+									"value": "UC_Ki7PnT03fx89AZA--M_tg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:05:45Z",
+								"updatedAt": "2021-05-27T12:05:45Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "qBN8tBzSNdQ0q0AoBidjy4oIoPg",
+					"id": "UgzfdlsSSMK4H248QEZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "YKgIp6oQEq35-7qhBkeMXkDJF6I",
+							"id": "UgzfdlsSSMK4H248QEZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=7m29s\">7:29</a> 8분을 체우기 위한 편집자의 발악",
+								"textOriginal": "7:29 8분을 체우기 위한 편집자의 발악",
+								"authorDisplayName": "GeonHa Kim",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngG8l6hWxhj1lpAyT3E7-V9FfPOesh7JWMOexaPMw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCuHM3wzxaDy1jHTdy3voPrg",
+								"authorChannelId": {
+									"value": "UCuHM3wzxaDy1jHTdy3voPrg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:50:29Z",
+								"updatedAt": "2021-05-27T12:50:29Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "Xu_93PhrjbsWZd_mLNl00NrGLw0",
+					"id": "Ugz97p0cOXHIqLbVNa54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "jiSFKN8zzR4YaBKee9W9kcdy7-w",
+							"id": "Ugz97p0cOXHIqLbVNa54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m18s\">3:18</a> 앜ㅋㅋ편집자님ㅋㅋ유튭각 나오셨넥ㄱ",
+								"textOriginal": "3:18 앜ㅋㅋ편집자님ㅋㅋ유튭각 나오셨넥ㄱ",
+								"authorDisplayName": "냥이도아",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngxEhLS6InfYy25E5D2ubavCNXahoZ8CVcpiEPfWA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCBJpdNdIfoaAxUj5iJRA8eA",
+								"authorChannelId": {
+									"value": "UCBJpdNdIfoaAxUj5iJRA8eA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 15,
+								"publishedAt": "2021-05-27T10:18:58Z",
+								"updatedAt": "2021-05-27T10:19:36Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "lN7ZGmUGn1kt7ZMqZYHO8aLRlHI",
+								"id": "Ugz97p0cOXHIqLbVNa54AaABAg.9NqMnzpCZJO9NqOBuUhdtq",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇㅋㅋ",
+									"textOriginal": "ㄹㅇㅋㅋ",
+									"parentId": "Ugz97p0cOXHIqLbVNa54AaABAg",
+									"authorDisplayName": "무적전",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjjQxgRMKaq2usvEWfV3HhG4N-kUHNwhX_7RHpf=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCaSXlWWaF3uxs7uSIAMrcag",
+									"authorChannelId": {
+										"value": "UCaSXlWWaF3uxs7uSIAMrcag"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:31:06Z",
+									"updatedAt": "2021-05-27T10:31:06Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "MFUTpsYT-oRKAdLHykoNlxBoQ_A",
+					"id": "Ugyv6pv9JPxa5IfNKZN4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "oy4_NmHzdOVtXkN7Ifio_lIxeW0",
+							"id": "Ugyv6pv9JPxa5IfNKZN4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "진짜 대물 저격총 내놔...",
+								"textOriginal": "진짜 대물 저격총 내놔...",
+								"authorDisplayName": "박수현",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngxHdEgzVdSNY90z-Czmfqg44uXN_Fv9PqrIg=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCRmNICc5sL-GDGWYHm-bdIQ",
+								"authorChannelId": {
+									"value": "UCRmNICc5sL-GDGWYHm-bdIQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T10:50:00Z",
+								"updatedAt": "2021-05-27T10:50:00Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "9llptEmXAeBDMrpAZXh75LKGKLA",
+					"id": "UgzfRuPVZlmMJkcoI4V4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "PbzMHFSizzchM6lrZmvvl8mJJIw",
+							"id": "UgzfRuPVZlmMJkcoI4V4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "흐어ㅓㅓㅓㅓㅓ지금 근무중이라서 못본다ㅏㅏㅏㅏ",
+								"textOriginal": "흐어ㅓㅓㅓㅓㅓ지금 근무중이라서 못본다ㅏㅏㅏㅏ",
+								"authorDisplayName": "Anti-Absolute",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhwXY4GT68pwn3kQFwb2GqyxYilUrf8Oj2P-TIW=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCFa7-GudiIjJAxITT1VU7Zw",
+								"authorChannelId": {
+									"value": "UCFa7-GudiIjJAxITT1VU7Zw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:51:59Z",
+								"updatedAt": "2021-05-27T11:51:59Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "mAWfu-iK_MTMfw9ovjLwo4WGPPU",
+					"id": "UgyF9fO8-GmXU8YVRP14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "xHfMMsumJR7Yoo6mJn_l2Lnsnbk",
+							"id": "UgyF9fO8-GmXU8YVRP14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "유튜버 2ㅜ키니 일 것 같은뎈ㅋㅋㅋ",
+								"textOriginal": "유튜버 2ㅜ키니 일 것 같은뎈ㅋㅋㅋ",
+								"authorDisplayName": "박현정",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj58LZzsSzcbLj-0RQj4CudfVYBKIHn8DERRA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCCjtXekMewPeQhWIJdlrhOA",
+								"authorChannelId": {
+									"value": "UCCjtXekMewPeQhWIJdlrhOA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:49:31Z",
+								"updatedAt": "2021-05-27T11:49:31Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "CGTszJmXc4djnWpoUQ5merXbUXg",
+					"id": "UgzHVznJRLyHiLlZRMh4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "NQ2vlWdzYf2xcNeMiARCk_edpU4",
+							"id": "UgzHVznJRLyHiLlZRMh4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "나도 배그하고시퍼ㅠㅠㅠㅠ",
+								"textOriginal": "나도 배그하고시퍼ㅠㅠㅠㅠ",
+								"authorDisplayName": "도요새",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnipZ3DVJ7uDTxxGNLqDZxT5J3QBE5tc7NrlGXoJ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC9V56PFCB68KwJ5isL1zSwQ",
+								"authorChannelId": {
+									"value": "UC9V56PFCB68KwJ5isL1zSwQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:41:02Z",
+								"updatedAt": "2021-05-27T12:41:02Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "QH7l2aMElJ8l_i8mxAF3CUMDGKI",
+					"id": "UgxYzayvqN0GXlKV_cp4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "5LVkruBz4gNNDAueL-PqWyZDeWk",
+							"id": "UgxYzayvqN0GXlKV_cp4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "개인적으로 이번 미라마 업뎃은 진짜 좋은 것 같음",
+								"textOriginal": "개인적으로 이번 미라마 업뎃은 진짜 좋은 것 같음",
+								"authorDisplayName": "최준혁",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhgoG2W3lPO0b_uRtlku82sBT1JIbm6fztYRMU9=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UClXwSf6UWahD6WX5Ah4JNkQ",
+								"authorChannelId": {
+									"value": "UClXwSf6UWahD6WX5Ah4JNkQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 3,
+								"publishedAt": "2021-05-27T10:53:20Z",
+								"updatedAt": "2021-05-27T10:53:20Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "9JBZBaBBngnyrjjCsyUgqEydIcE",
+								"id": "UgxYzayvqN0GXlKV_cp4AaABAg.9NqQjjI86a29NrQe58sqn0",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㅇㅇ",
+									"textOriginal": "ㅇㅇ",
+									"parentId": "UgxYzayvqN0GXlKV_cp4AaABAg",
+									"authorDisplayName": "짱아찌더쿠",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngw4ZKwWhQ8yNvlG6ugZ19s_EoyiG9AI4Du7AM9=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCVDmpfFLl7x63fLLvFTdD-A",
+									"authorChannelId": {
+										"value": "UCVDmpfFLl7x63fLLvFTdD-A"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T20:11:48Z",
+									"updatedAt": "2021-05-27T20:11:48Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "5jTbK-ErL_DaWBQIHLjrfrm7pM8",
+					"id": "Ugy4D7CRi6cR0CO6wcx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "ouy3tVhbcWbpPP7UDJ7szgY6m7o",
+							"id": "Ugy4D7CRi6cR0CO6wcx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m11s\">1:11</a> ㅇㄱㄹㅇ 뭔가 뽀샤시해짐",
+								"textOriginal": "1:11 ㅇㄱㄹㅇ 뭔가 뽀샤시해짐",
+								"authorDisplayName": "창궐",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjIUYmWxCs9JI7iKjjtj2YY8q9ZrudlTr6L6DmYOQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC4T6h5HqabBKVikQKTbyUxQ",
+								"authorChannelId": {
+									"value": "UC4T6h5HqabBKVikQKTbyUxQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:50:40Z",
+								"updatedAt": "2021-05-27T14:50:40Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "JM_joU1eM4zcFUKO6hcMoVCrKBs",
+					"id": "Ugyr7Uymig3Z7Lq6Wit4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "LKnTBlAXReuyPKw9Lwa5s67XqQw",
+							"id": "Ugyr7Uymig3Z7Lq6Wit4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "국산 총기 패치+국산 맵 추가 부탁해요ㅋㅋㅋ",
+								"textOriginal": "국산 총기 패치+국산 맵 추가 부탁해요ㅋㅋㅋ",
+								"authorDisplayName": "박현중",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh0kpHKOwcT4Cb1E3ckVGLH6goCn2TbsSqbKQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCafojiYPDUS7WN7apqID_0A",
+								"authorChannelId": {
+									"value": "UCafojiYPDUS7WN7apqID_0A"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:01:46Z",
+								"updatedAt": "2021-05-27T14:01:46Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "8TRXOMJtbaOj6G80d3o_0a0iD6E",
+					"id": "UgyMsScW46SSwhFKCbF4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "YnZvNdz3lNNM0f-9pSwYNi62WEc",
+							"id": "UgyMsScW46SSwhFKCbF4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "‘배그를 직접 하지는 않지만 김블루 유튜브는 보는 쁠몬이다’ 조용히 거수!",
+								"textOriginal": "‘배그를 직접 하지는 않지만 김블루 유튜브는 보는 쁠몬이다’ 조용히 거수!",
+								"authorDisplayName": "Banila바닐라",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjl6X2gL11ZAbM8uBLI3SUVeloO-Tn9x7FZ4SW0qQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCmUKFKKve5rd60A3LI6m4IA",
+								"authorChannelId": {
+									"value": "UCmUKFKKve5rd60A3LI6m4IA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:54:36Z",
+								"updatedAt": "2021-05-27T12:54:36Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "506I7hjs6442RG1Ul1Q3LHWay6M",
+					"id": "UgzxZS4PhOYK0KsIafJ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "qDnuV1KZQCVhVeVskkHeVu1fjxw",
+							"id": "UgzxZS4PhOYK0KsIafJ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=3m15s\">3:15</a> 유툽각인듯.....",
+								"textOriginal": "3:15 유툽각인듯.....",
+								"authorDisplayName": "",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/IUQih6-XYSQLXpCAHiSauv-88Os6mycU3oHMHgJodNjw9cxaxrT5gnfdeJen70jOCTL-5nPN=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCbKJ5HINEq2FpW_AaWThJSg",
+								"authorChannelId": {
+									"value": "UCbKJ5HINEq2FpW_AaWThJSg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:57:55Z",
+								"updatedAt": "2021-05-27T14:58:33Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "IVSwX5u3gU7sq4vIUB1vD8Gq-H0",
+					"id": "Ugzth9dK3-W8qugVFyR4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "4ZTDFjaBFkq1TMasxHlklGz4vTk",
+							"id": "Ugzth9dK3-W8qugVFyR4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "킹직히 5발이면 링스 몸빵을 한대로 해야 그나마 쓸만할 것 같은데",
+								"textOriginal": "킹직히 5발이면 링스 몸빵을 한대로 해야 그나마 쓸만할 것 같은데",
+								"authorDisplayName": "두이",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni5-yrafiWFCtbDYcf3-MO7o5bPQGgIdr0Qzh5YAkE=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCYIuVdbHyS6LHI0RcNbpaVw",
+								"authorChannelId": {
+									"value": "UCYIuVdbHyS6LHI0RcNbpaVw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 42,
+								"publishedAt": "2021-05-27T11:52:24Z",
+								"updatedAt": "2021-05-27T11:52:35Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 9,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "714kXabVGh2aa5zphw5NXKCcckM",
+								"id": "Ugzth9dK3-W8qugVFyR4AaABAg.9NqXVHpEF-H9NrhPqcmJpY",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "2갑 1방 아님 보급에 낄수가 없음",
+									"textOriginal": "2갑 1방 아님 보급에 낄수가 없음",
+									"parentId": "Ugzth9dK3-W8qugVFyR4AaABAg",
+									"authorDisplayName": "초등학생인식 회복 위원회",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng-wswvyrl86lUYDmRel4_7DvHeR8wsVrfN8iWV=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCjsTHjCnNAy_25lpxQYjrtA",
+									"authorChannelId": {
+										"value": "UCjsTHjCnNAy_25lpxQYjrtA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T22:47:00Z",
+									"updatedAt": "2021-05-27T22:47:00Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "TavbplnQjV2yp0Bgc1yl-4sufzQ",
+								"id": "Ugzth9dK3-W8qugVFyR4AaABAg.9NqXVHpEF-H9NrfOSp8UvY",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@츄르츄릅 그렇게 하려면 피격점 체력을 다 나눠서 타르코프처럼 계산하는수밖에 없음<br>그리고 9미리 파라블럼같은 권총탄 맞았다고(머리는 맞으면 당연히 죽으니까 제외하자)<br> 맨날 마약성 진통제에 카페인음료 몇캔 몇병씩 먹는 약쟁이들이 빈사상태에 빠질리는 없지 않나?",
+									"textOriginal": "@츄르츄릅 그렇게 하려면 피격점 체력을 다 나눠서 타르코프처럼 계산하는수밖에 없음\n그리고 9미리 파라블럼같은 권총탄 맞았다고(머리는 맞으면 당연히 죽으니까 제외하자)\n 맨날 마약성 진통제에 카페인음료 몇캔 몇병씩 먹는 약쟁이들이 빈사상태에 빠질리는 없지 않나?",
+									"parentId": "Ugzth9dK3-W8qugVFyR4AaABAg",
+									"authorDisplayName": "Davis",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj0gH7XS910Bx1POium88Y5zfrW1F87oInLCYl0=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCZi1M-4YqpztcF7IYj7uXVg",
+									"authorChannelId": {
+										"value": "UCZi1M-4YqpztcF7IYj7uXVg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T22:29:20Z",
+									"updatedAt": "2021-05-27T22:31:10Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "tgwlmgbwToX5h1BwVPCxGcntM38",
+								"id": "Ugzth9dK3-W8qugVFyR4AaABAg.9NqXVHpEF-H9Nr3y36Pzzc",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@Davis 근데 고증 다 지킬꺼면 권총 한대만 맞아도 죽거나 죽기직전의 상태로 기어다녀야됨ㅋㅋ",
+									"textOriginal": "@Davis 근데 고증 다 지킬꺼면 권총 한대만 맞아도 죽거나 죽기직전의 상태로 기어다녀야됨ㅋㅋ",
+									"parentId": "Ugzth9dK3-W8qugVFyR4AaABAg",
+									"authorDisplayName": "츄르츄릅",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj6k9o4HtWYczlv-qucQTWcwpTmS4ucjNze3HgzdQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UC-02yY_fpE2H9Yv7gc8UMrw",
+									"authorChannelId": {
+										"value": "UC-02yY_fpE2H9Yv7gc8UMrw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 1,
+									"publishedAt": "2021-05-27T16:53:33Z",
+									"updatedAt": "2021-05-27T16:53:33Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "6eQ97Ozl3-E5kR7Al5KJCemvSAQ",
+								"id": "Ugzth9dK3-W8qugVFyR4AaABAg.9NqXVHpEF-H9Nqta_z-Ma7",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "@Davis 어머 이정도구나",
+									"textOriginal": "@Davis 어머 이정도구나",
+									"parentId": "Ugzth9dK3-W8qugVFyR4AaABAg",
+									"authorDisplayName": "채정",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniIVwqGA_GOaZFIri1mDNe0t2l8WWfiFGqYYQ=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCBgGs7Lut2LB56fdC6kxFcg",
+									"authorChannelId": {
+										"value": "UCBgGs7Lut2LB56fdC6kxFcg"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:14:14Z",
+									"updatedAt": "2021-05-27T15:14:14Z"
+								}
+							},
+							{
+								"kind": "youtube#comment",
+								"etag": "6x_5KtLjD4L4XjzltWj3gRdJz7g",
+								"id": "Ugzth9dK3-W8qugVFyR4AaABAg.9NqXVHpEF-H9Nqt6YA_yrY",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "너무약하다 현실고증하기엔ㅋㅋㅋㅋㅋㅋㅋ",
+									"textOriginal": "너무약하다 현실고증하기엔ㅋㅋㅋㅋㅋㅋㅋ",
+									"parentId": "Ugzth9dK3-W8qugVFyR4AaABAg",
+									"authorDisplayName": "다슈",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniVFxAYR0Opt-iLOjJpbrfwyOqacIIz6k2ZXg=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCmAfn9qV_sJjtvP7MYvy_Pw",
+									"authorChannelId": {
+										"value": "UCmAfn9qV_sJjtvP7MYvy_Pw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T15:09:59Z",
+									"updatedAt": "2021-05-27T15:09:59Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "qYCaf9sIEFdSUTEOvkB4EFf1UyI",
+					"id": "Ugz7emP0PxEObKYdDP14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "SQeHY7nnYM65uZ2QnSt_Zadhw9Q",
+							"id": "Ugz7emP0PxEObKYdDP14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "와 이건 연ㄷ 유튜브에 나오고 언제나오나 했는뎈ㅋㅋ",
+								"textOriginal": "와 이건 연ㄷ 유튜브에 나오고 언제나오나 했는뎈ㅋㅋ",
+								"authorDisplayName": "스타디스트로이어",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnidKqFoIXXCglNufQGo75yU2XzJZ-r7gwYTCw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCDhzVCP7GNuNn73FYlpNqsw",
+								"authorChannelId": {
+									"value": "UCDhzVCP7GNuNn73FYlpNqsw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T13:35:51Z",
+								"updatedAt": "2021-05-27T13:35:51Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "cNEAXj4csTKThVN9RZ6CSw9DQgQ",
+					"id": "UgyqmCqrAaevfnslnKt4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "Q18qALzK6NzOOKf2fBMrVrb338A",
+							"id": "UgyqmCqrAaevfnslnKt4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "그거 모베에 엄청엿날부터있었음ㅋㅋㄹㅃㅃ",
+								"textOriginal": "그거 모베에 엄청엿날부터있었음ㅋㅋㄹㅃㅃ",
+								"authorDisplayName": "경규민",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngkE6fc5zcoEG8zb0aqKURe6ezEqKMaR6RuWm5Y=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UChUyrBRczj7lbJLjN51fClg",
+								"authorChannelId": {
+									"value": "UChUyrBRczj7lbJLjN51fClg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:29:48Z",
+								"updatedAt": "2021-05-27T11:29:48Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "z8QEogusdyw32t9uBE0z6AlU3Cw",
+					"id": "UgyqJM2awq9_3lazV6x4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "NcCYdf1dyAUl6P8-7G9tvKl-f6w",
+							"id": "UgyqJM2awq9_3lazV6x4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "핵만 원천봉쇄하면 진짜 갓겜",
+								"textOriginal": "핵만 원천봉쇄하면 진짜 갓겜",
+								"authorDisplayName": "BonusTrack",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngOqGhRVVrUV3zq7dvg6nw3KwodurbOTFgvQuWT=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCyNXzJcS5bKZncx7jUtTC7w",
+								"authorChannelId": {
+									"value": "UCyNXzJcS5bKZncx7jUtTC7w"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T12:38:07Z",
+								"updatedAt": "2021-05-27T12:38:07Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "jyW1pGsqQxZPbbpWJNZjeJIpGbI",
+					"id": "UgymDcHI6Esc3QyQIvJ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "WYk2Ae3EQn-cj7uJxMIPgC2DzXg",
+							"id": "UgymDcHI6Esc3QyQIvJ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "신총 서든에서 봤는뎈ㅋㅋ",
+								"textOriginal": "신총 서든에서 봤는뎈ㅋㅋ",
+								"authorDisplayName": "김태윤",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngzL6SAw4I0BxP3jdOuJtE_EMhU0MN-Pw2voasK=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCTSEZeC9_ebt65_sEamyVMQ",
+								"authorChannelId": {
+									"value": "UCTSEZeC9_ebt65_sEamyVMQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T13:16:27Z",
+								"updatedAt": "2021-05-27T13:16:27Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "8qYxbJqwDP2DBj8RLD2O5kc2oSA",
+					"id": "Ugxy77k1KrOKtTzcLIZ4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "acfhhzxFJ-i30yGCm7GHFIWewy4",
+							"id": "Ugxy77k1KrOKtTzcLIZ4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "우와 진짜 펍쥐 정말 업데이트를 잘했는걸?? 진짜 완전 택스쳐가 바뀌었잖아?? 우아 대박이다",
+								"textOriginal": "우와 진짜 펍쥐 정말 업데이트를 잘했는걸?? 진짜 완전 택스쳐가 바뀌었잖아?? 우아 대박이다",
+								"authorDisplayName": "그래서누구시라구요?",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhZJw7ldpeoBn8Zzlt9hy1viJ2kB-iOxAzN_CR1=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCmwG009apZ4guAqEO4gHIKA",
+								"authorChannelId": {
+									"value": "UCmwG009apZ4guAqEO4gHIKA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 3,
+								"publishedAt": "2021-05-27T11:00:04Z",
+								"updatedAt": "2021-05-27T11:00:04Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "RleCmAOs5z8NHIfnltZanqynHLk",
+								"id": "Ugxy77k1KrOKtTzcLIZ4AaABAg.9NqRW1RUewC9Nqd_XCnJUf",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "왜이렇게 영혼이 없냐",
+									"textOriginal": "왜이렇게 영혼이 없냐",
+									"parentId": "Ugxy77k1KrOKtTzcLIZ4AaABAg",
+									"authorDisplayName": "27 Route",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhotlJok5SWsB1nTg-Mmf6yvzUEMqGrWxJttWA3TA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCuOPWtc3P0z29nUhudUOKGA",
+									"authorChannelId": {
+										"value": "UCuOPWtc3P0z29nUhudUOKGA"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T12:54:16Z",
+									"updatedAt": "2021-05-27T12:54:16Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "ZG3pBP_xWKHVTORDMmAg1nyM4-g",
+					"id": "Ugx5j6dd_5JwLM-1lb54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "KminCQAPjFjEeVcMCe9KxDm-iTQ",
+							"id": "Ugx5j6dd_5JwLM-1lb54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m35s\">1:35</a> 사이버펑크",
+								"textOriginal": "1:35 사이버펑크",
+								"authorDisplayName": "레고스톱모션 TV",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjrUD6mhSGKEeyF6KcTk5Xg3ppENzS91VGLndDr=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCwvh4Pw_z6UinCY2v1ww_4w",
+								"authorChannelId": {
+									"value": "UCwvh4Pw_z6UinCY2v1ww_4w"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T10:37:58Z",
+								"updatedAt": "2021-05-27T10:37:58Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "9zfnn3gGb_ofmPXwXACVyqy7vHk",
+					"id": "UgzLRFOl38oLlWnUq5F4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "Z7Evb3kni4b4pUc7WW4pVrqDOeQ",
+							"id": "UgzLRFOl38oLlWnUq5F4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "아닠ㅋㅋㅋㅋ 아무생각 없이 미역국 먹다가 <a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=0m34s\">0:34</a>에서 뿜는거 참는다고 얼마나 힘들었다고 ㅋㅋㅋㅋㅋㅋㅋㅋ<br><br><br><br><br><br>&quot;너구리&quot; 먹고싶네",
+								"textOriginal": "아닠ㅋㅋㅋㅋ 아무생각 없이 미역국 먹다가 0:34에서 뿜는거 참는다고 얼마나 힘들었다고 ㅋㅋㅋㅋㅋㅋㅋㅋ\n\n\n\n\n\n\"너구리\" 먹고싶네",
+								"authorDisplayName": "재희TBC",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj52F2XaduKpq_F_SFEEcQitr-Z4aO6V6qFRA=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCPRcXF5C0doMuJ5_OQUnCzA",
+								"authorChannelId": {
+									"value": "UCPRcXF5C0doMuJ5_OQUnCzA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T11:12:23Z",
+								"updatedAt": "2021-05-27T11:14:12Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "5DZX4K1C_jVXssjiYxke4PSzZGA",
+					"id": "UgzAYFfaecB6vfvqzKd4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "M1F__u-s_MxH5suAEpjvNyn7GGM",
+							"id": "UgzAYFfaecB6vfvqzKd4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "아학핰핰핰ㅋㅋ이젠 매드킿일자리갘ㅋ갓겜을 만들었엌ㅋㅋ",
+								"textOriginal": "아학핰핰핰ㅋㅋ이젠 매드킿일자리갘ㅋ갓겜을 만들었엌ㅋㅋ",
+								"authorDisplayName": "루크",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjZsEEMkr6kD0ZQlj_AYQdX5P_Od1i3LR7HDf4g=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCdrPru9L5NvT2skRWu7Zlhg",
+								"authorChannelId": {
+									"value": "UCdrPru9L5NvT2skRWu7Zlhg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:58:14Z",
+								"updatedAt": "2021-05-27T11:58:14Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "XGl3ry8sYlSiVGaZnzo1IaycktM",
+					"id": "Ugzq7NMwK25J9nSNnxN4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "USvzgvfu2-Yc0b1jYxtQC1L3nbs",
+							"id": "Ugzq7NMwK25J9nSNnxN4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "뭐여 업글총기 모배랑 비슷하잖아..뭔가 잘못됬는ㄷ",
+								"textOriginal": "뭐여 업글총기 모배랑 비슷하잖아..뭔가 잘못됬는ㄷ",
+								"authorDisplayName": "R_이오",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjFL2suMXLGMWwQ2e7qC54tkIdphVQ_9N3mWz4guw=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCQ_BLKULDdhCySXXl3El_dA",
+								"authorChannelId": {
+									"value": "UCQ_BLKULDdhCySXXl3El_dA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 10,
+								"publishedAt": "2021-05-27T10:14:04Z",
+								"updatedAt": "2021-05-27T10:14:04Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 1,
+						"isPublic": true
+					},
+					"replies": {
+						"comments": [
+							{
+								"kind": "youtube#comment",
+								"etag": "Ze4LmplitSx9lBtmblZBXTKyDK8",
+								"id": "Ugzq7NMwK25J9nSNnxN4AaABAg.9NqMF4WGLeu9NqMqILQLwK",
+								"snippet": {
+									"videoId": "shG5QqRBL_A",
+									"textDisplay": "ㄹㅇ",
+									"textOriginal": "ㄹㅇ",
+									"parentId": "Ugzq7NMwK25J9nSNnxN4AaABAg",
+									"authorDisplayName": "검모",
+									"authorProfileImageUrl": "https://yt3.ggpht.com/PAtD4AzauW7kX8fhn5570XNF5khG-k2PVWeQ8jTDaCkwQQqhY3pZ4wdGP7nKt2xq1rEKt4_YMA=s48-c-k-c0x00ffffff-no-rj",
+									"authorChannelUrl": "http://www.youtube.com/channel/UCIWkce3fo2WXe9-uzxqySrw",
+									"authorChannelId": {
+										"value": "UCIWkce3fo2WXe9-uzxqySrw"
+									},
+									"canRate": true,
+									"viewerRating": "none",
+									"likeCount": 0,
+									"publishedAt": "2021-05-27T10:19:16Z",
+									"updatedAt": "2021-05-27T10:19:16Z"
+								}
+							}
+						]
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "Z-AiLU3_zkxrzv0Rn35vTnL3mV4",
+					"id": "UgyGxaNsu2ArEf9-NbV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "VDNqs8NAGbGSTua3NzJprUmcJAg",
+							"id": "UgyGxaNsu2ArEf9-NbV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "하뉘 5발이 뭐임쿠쿠쿠ㅠㅠ",
+								"textOriginal": "하뉘 5발이 뭐임쿠쿠쿠ㅠㅠ",
+								"authorDisplayName": "강수진",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjlCU_Lw7rsuERO_CDlnh86zQun_K-7jEVwig=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCjQ-V-BsDmGACyTsVbsXVAA",
+								"authorChannelId": {
+									"value": "UCjQ-V-BsDmGACyTsVbsXVAA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T13:08:16Z",
+								"updatedAt": "2021-05-27T13:08:16Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "IgyUmzCDg5VEjtIWIv_c5b0-Oy4",
+					"id": "UgwaOr37QQKecZcJvX54AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "Wf9H2s_Veh_l1qbQYQP0WfjN7rc",
+							"id": "UgwaOr37QQKecZcJvX54AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "연다님더빙개웃기넼ㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "연다님더빙개웃기넼ㅋㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "포켓몬",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/EL2xWnc4rRGu1Bfc5DxgE2DZfFvaNLAFgusQM3GR6Jg742_KM-qcOvPeJtYElKhokCJnZWE6=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UC1JON0pCFDruVQcELbCj-Tw",
+								"authorChannelId": {
+									"value": "UC1JON0pCFDruVQcELbCj-Tw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T22:30:19Z",
+								"updatedAt": "2021-05-27T22:30:19Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "hVSlRxv2_ajA3UTDXeKtuVozJv0",
+					"id": "Ugx4UQpK7WNLEB3HfVh4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "duTo-N_fpXKBV5aveht9MpDWb_w",
+							"id": "Ugx4UQpK7WNLEB3HfVh4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m24s\">1:24</a> 컴배가 모배가되어 가네",
+								"textOriginal": "1:24 컴배가 모배가되어 가네",
+								"authorDisplayName": "외롭다",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/qfbg2fdH0U0qZQfJJuVpku8Kzi-zpHSuC4L22j08I4X_wemVEkMqSK-PFkCuA1QiUJMmCZBJfQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCkme249Wx_9uQeWivLWJiIA",
+								"authorChannelId": {
+									"value": "UCkme249Wx_9uQeWivLWJiIA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T15:32:37Z",
+								"updatedAt": "2021-05-27T15:32:37Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "Ku4OvRPQRVunBmShsMp8sj1o06M",
+					"id": "UgzXnmc5Hjpl0Xruhdx4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "KKxTA_X1jjqmt20xbbpHyPOuvsk",
+							"id": "UgzXnmc5Hjpl0Xruhdx4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=0m45s\">0:45</a>  연다님 너무 웃기다 ㅋㅋ",
+								"textOriginal": "0:45  연다님 너무 웃기다 ㅋㅋ",
+								"authorDisplayName": "백설기",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhNpTUrcjCjbY50VrJ6DAN6p7CGe167uLkeJd8n=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCrN2Tx0WobrVhNvRqpgZ_Yw",
+								"authorChannelId": {
+									"value": "UCrN2Tx0WobrVhNvRqpgZ_Yw"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 11,
+								"publishedAt": "2021-05-27T10:50:25Z",
+								"updatedAt": "2021-05-27T10:50:25Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "YWU1C3GR4J8Qw3u79AyZ0s91x3w",
+					"id": "UgzdD6Az4yxmpCJxpDV4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "8sA-foMzN1hiTya8LTVXZnVE_UE",
+							"id": "UgzdD6Az4yxmpCJxpDV4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "모베는 시험판인가...ㅋㅋㅋㅋ<br>저거 훨전에 다나온건데..<br>경쟁전나올때부터 느낌 ㅋㅋ<br>모베는 시험판..ㅡㅡㅋㅋ",
+								"textOriginal": "모베는 시험판인가...ㅋㅋㅋㅋ\n저거 훨전에 다나온건데..\n경쟁전나올때부터 느낌 ㅋㅋ\n모베는 시험판..ㅡㅡㅋㅋ",
+								"authorDisplayName": "딸기쬬앙",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjv4BR17LAgftjSgdBiDQwJz00BFTq3vtI0Xh7Z=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCnLtMa0NtTQVIQPbZqqd6aA",
+								"authorChannelId": {
+									"value": "UCnLtMa0NtTQVIQPbZqqd6aA"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T11:43:49Z",
+								"updatedAt": "2021-05-27T11:43:49Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "EILRq9V1wYeegGmO_eJioRT4lMU",
+					"id": "UgxgcyqQ-sMCdWLS_9F4AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "IXc2MEbXxXUV5gGtA-o8PmiMxuY",
+							"id": "UgxgcyqQ-sMCdWLS_9F4AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "와 에땁보다 쎈데 5발 ㅋㅋㅋㅋㅋㅋㅋ",
+								"textOriginal": "와 에땁보다 쎈데 5발 ㅋㅋㅋㅋㅋㅋㅋ",
+								"authorDisplayName": "가면쓴남자",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/20Z31S10Jd6GZCL0rv1Gy-deFc61zsGmbmOz5YwPP7JAh6CMBZYFq-HwxRjKBTOTfrs98x2V=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCqxkTAIKynYXsawn3ZyEtsg",
+								"authorChannelId": {
+									"value": "UCqxkTAIKynYXsawn3ZyEtsg"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 0,
+								"publishedAt": "2021-05-27T14:21:55Z",
+								"updatedAt": "2021-05-27T14:21:55Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				},
+				{
+					"kind": "youtube#commentThread",
+					"etag": "URjzkKewotmnbYYUR-XUTBfCLzs",
+					"id": "UgxP5mJOnf2uyvywaB14AaABAg",
+					"snippet": {
+						"videoId": "shG5QqRBL_A",
+						"topLevelComment": {
+							"kind": "youtube#comment",
+							"etag": "YsfYe1AQoAYHQho-dVbHIpmd1tM",
+							"id": "UgxP5mJOnf2uyvywaB14AaABAg",
+							"snippet": {
+								"videoId": "shG5QqRBL_A",
+								"textDisplay": "<a href=\"https://www.youtube.com/watch?v=shG5QqRBL_A&amp;t=1m52s\">1:52</a> PUBG_Crossbow: (상처)",
+								"textOriginal": "1:52 PUBG_Crossbow: (상처)",
+								"authorDisplayName": "_KRSD owo[연어센세]",
+								"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngbeQZmCDW5QBzatynSf4uUzFeuirDtntX8RnGiPQ=s48-c-k-c0x00ffffff-no-rj",
+								"authorChannelUrl": "http://www.youtube.com/channel/UCKHPj7l9BzFIDQ5sVlXvCbQ",
+								"authorChannelId": {
+									"value": "UCKHPj7l9BzFIDQ5sVlXvCbQ"
+								},
+								"canRate": true,
+								"viewerRating": "none",
+								"likeCount": 1,
+								"publishedAt": "2021-05-27T12:50:33Z",
+								"updatedAt": "2021-05-27T12:50:33Z"
+							}
+						},
+						"canReply": true,
+						"totalReplyCount": 0,
+						"isPublic": true
+					}
+				}
+			]
+		}
+	]
+}

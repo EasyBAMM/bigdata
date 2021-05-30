@@ -60,7 +60,7 @@ def get_data(count=999999, nextPageToken=""):
         maxResults=100,
         order="relevance",
         pageToken=nextPageToken,
-        videoId="Bb5DKSx5jTI",
+        videoId="epst9udcGLY",
     )
     response = request.execute()
 
@@ -148,17 +148,18 @@ def json_file_to_pandas_csv(json_file, filepath):
             'textDisplay': textDisplay, 'textOriginal': textOriginal, 'authorChannelUrl': authorChannelUrl, 'likeCount': likeCount}
 
     df = pd.DataFrame(data)
+    df["category"] = "game"
     df["isBad"] = 0
-    # df["category"] = "game"
     # print(df.tail())
 
-    df.to_csv(filepath)
     print("[INFO] JSON to Pandas Finished.")
+    df.to_csv(filepath)
+    print("[INFO] CSV File save Finished.")
 
 
 if __name__ == "__main__":
-    get_data(2)
-    save_response_to_json_file("data/sample.json")
-    json_file = open_json_file("data/sample.json")
-    json_file_to_pandas_csv(json_file, "data/csv/sample.csv")
+    get_data(1)
+    save_response_to_json_file("data/json/05-28/popular_game_10.json")
+    json_file = open_json_file("data/json/05-28/popular_game_10.json")
+    json_file_to_pandas_csv(json_file, "data/csv/05-28/popular_game_10.csv")
     print("[INFO] Finished.")
