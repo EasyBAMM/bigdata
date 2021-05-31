@@ -37,5 +37,4 @@ try:
     # 성공했을 때 동작 수행
     print(elem.text)    # 첫번째 결과 출력
 finally:
-
     browser.quit()

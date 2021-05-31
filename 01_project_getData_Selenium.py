@@ -125,7 +125,7 @@ def scrape_comment():
         print(i.text)
 
     print("[INFO] 완료")
-    # time.sleep(500)
+    time.sleep(5000)
     driver.quit()
 
 

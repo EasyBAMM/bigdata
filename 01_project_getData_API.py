@@ -60,7 +60,7 @@ def get_data(count=999999, nextPageToken=""):
         maxResults=100,
         order="relevance",
         pageToken=nextPageToken,
-        videoId="epst9udcGLY",
+        videoId="49ysegAFDoY",
     )
     response = request.execute()
 
@@ -96,6 +96,7 @@ def json_file_to_pandas_csv(json_file, filepath):
     print("[INFO] JSON to Pandas Started.")
     json_responses = json_file["responses"]
 
+    id = []
     videoId = []
     item_type = []  # 0: comment, 1: replie
     textDisplay = []
@@ -109,6 +110,7 @@ def json_file_to_pandas_csv(json_file, filepath):
         items = json_data["items"]
 
         for item in items:
+            comment_id = item["snippet"]["topLevelComment"]["id"]
             comment_videoId = item["snippet"]["videoId"]
             comment_textDisplay = item["snippet"]["topLevelComment"]["snippet"]["textDisplay"]
             comment_textOriginal = item["snippet"]["topLevelComment"]["snippet"]["textOriginal"]
@@ -117,6 +119,7 @@ def json_file_to_pandas_csv(json_file, filepath):
             comment_likeCount = item["snippet"]["topLevelComment"]["snippet"]["likeCount"]
             comment_totalReplyCount = item["snippet"]["totalReplyCount"]
 
+            id.append(comment_id)
             videoId.append(comment_videoId)
             item_type.append(0)
             textDisplay.append(comment_textDisplay)
@@ -129,6 +132,7 @@ def json_file_to_pandas_csv(json_file, filepath):
                 replies = item["replies"]["comments"]
 
                 for replie in replies:
+                    replie_id = replie["id"]
                     replie_videoId = replie["snippet"]["videoId"]
                     replie_textDisplay = replie["snippet"]["textDisplay"]
                     replie_textOriginal = replie["snippet"]["textOriginal"]
@@ -136,6 +140,7 @@ def json_file_to_pandas_csv(json_file, filepath):
                     replie_authorChannelUrl = replie["snippet"]["authorChannelUrl"]
                     replie_likeCount = replie["snippet"]["likeCount"]
 
+                    id.append(replie_id)
                     videoId.append(replie_videoId)
                     item_type.append(1)
                     textDisplay.append(replie_textDisplay)
@@ -144,7 +149,7 @@ def json_file_to_pandas_csv(json_file, filepath):
                     authorChannelUrl.append(replie_authorChannelUrl)
                     likeCount.append(replie_likeCount)
 
-    data = {'videoId': videoId, 'item_type': item_type, 'authorDisplayName': authorDisplayName,
+    data = {'id': id, 'videoId': videoId, 'item_type': item_type, 'authorDisplayName': authorDisplayName,
             'textDisplay': textDisplay, 'textOriginal': textOriginal, 'authorChannelUrl': authorChannelUrl, 'likeCount': likeCount}
 
     df = pd.DataFrame(data)
@@ -159,7 +164,7 @@ def json_file_to_pandas_csv(json_file, filepath):
 
 if __name__ == "__main__":
     get_data(1)
-    save_response_to_json_file("data/json/05-28/popular_game_10.json")
-    json_file = open_json_file("data/json/05-28/popular_game_10.json")
-    json_file_to_pandas_csv(json_file, "data/csv/05-28/popular_game_10.csv")
+    save_response_to_json_file("data/json/myvideocomment.json")
+    json_file = open_json_file("data/json/myvideocomment.json")
+    json_file_to_pandas_csv(json_file, "data/csv/myvideocomment.csv")
     print("[INFO] Finished.")
