@@ -43,6 +43,8 @@ def get_data(videoId):
     # example >> part="id, snippet, replies", pageToken="dsdsdd", maxResults=100, videoId="X9IeRJmBL7g"
     request = youtube.commentThreads().list(
         part="id, snippet, replies",
+        maxResults=100,
+        order="relevance",
         videoId=videoId,
     )
     response = request.execute()
