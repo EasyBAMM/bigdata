@@ -89,7 +89,10 @@ def predict_comments(comment_list):
         if predict_comment(text):
             comment_bad_ids.append((comment_id))
 
-    print("comment_ids: ", comment_bad_ids)
+    print()
+    print("[INFO] 악성 댓글 {}개 감지".format(len(comment_bad_ids)))
+    print("악성댓글 id: ", comment_bad_ids)
+    print()
     return comment_bad_ids
 
 
